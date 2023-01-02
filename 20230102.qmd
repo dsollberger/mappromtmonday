@@ -1,0 +1,73 @@
+---
+title: "Week 1"
+author: "Derek Sollberger"
+format: html
+---
+
+```{r}
+library("sportyR")
+library("tidyverse")
+NBA_shot_log <- read_csv("data_private/NBA Shotlog_16_17.csv")
+```
+
+```{r}
+NBA_shot_df <- NBA_shot_log |>
+  mutate(halfcourt_x = ifelse(location_x < 933/2,
+                              933 - location_x, location_x),
+         halfcourt_y = ifelse(location_x < 933/2,
+                              500 - location_y, location_y),
+         shot_simple = case_when(
+           str_detect(shot_type, "Dunk") ~ "Dunk",
+           str_detect(shot_type, "Layup") ~ "Layup",
+           TRUE ~ "Shot"
+         ))
+```
+
+```{r}
+NBA_shot_df |> 
+               filter(shoot_player == "Kevin Durant") |>
+  ggplot() +
+  
+  # basketball (half)court
+  # https://www.color-hex.com/color-palette/63249
+  geom_rect(aes(xmin = 500, xmax = 900, ymin = 0, ymax = 500),
+            color = "black", fill = "#dfbb85") +
+  
+  geom_point(aes(x = halfcourt_x, y = halfcourt_y,
+                 color = shot_simple),
+             alpha = 0.5,
+             size = 2) +
+  guides(color = guide_legend(title = "Shot Type")) +
+  labs(title = "NBA Shot Map",
+       subtitle = "Kevin Durant (2016-2017 season)",
+       caption = "Map by Derek Sollberger",
+       x = "", y = "") +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        panel.background = element_blank()) +
+  xlim(500, 950) + ylim(0, 500)
+```
+
+```{r}
+#| eval: false
+geom_basketball("nba") +
+  # ggplot() +
+  
+  # basketball (half)court
+  # https://www.color-hex.com/color-palette/63249
+  # geom_rect(aes(xmin = 500, xmax = 900, ymin = 0, ymax = 500),
+  #           color = "black", fill = "#dfbb85") +
+  
+  geom_point(aes(x = halfcourt_x, y = halfcourt_y,
+                 color = shot_simple),
+             data = NBA_shot_df |> 
+               filter(shoot_player == "Kevin Durant")) +
+  labs(title = "NBA Shot Map",
+       subtitle = "Kevin Durant (2016-2017 season)",
+       caption = "Map by Derek Sollberger",
+       x = "", y = "") +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        panel.background = element_blank())
+  # xlim(500, 950) + ylim(0, 500)
+```

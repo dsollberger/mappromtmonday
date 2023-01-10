@@ -1,0 +1,134 @@
+---
+title: "Week 2"
+author: "Derek Sollberger"
+format: html
+---
+
+Goal: heatmap of *counties* in the continental United States that have names with Native American origin
+
+* Why not states?  That does not much use for a heatmap
+* Why not cities?  This heatmap would correlate simply with states that have a lot of area.
+
+```{r}
+#| message: false
+#| warning: false
+library("patchwork")
+library("rgeos") #for centroids
+library("sf")
+library("tidyverse")
+
+lat_min <- 22
+lat_max <- 50
+long_min <- -130
+long_max <- -65
+```
+
+I found a county-level shapefile on the Census website.
+
+```{r}
+# load shape file(s)
+# https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+counties_shp <- st_read("data/cb_2018_us_county_5m/cb_2018_us_county_5m.shp")
+```
+
+For this side-project, it will probably be feasible to label the counties with either "Native American origin" or "other origin".  I want a spreadsheet of counties---organized by state just in case some county names are repeated---but the shape file had state FIP codes instead of state names.
+
+* https://www.bls.gov/respondents/mwr/electronic-data-interchange/appendix-d-usps-state-abbreviations-and-fips-codes.htm
+
+```{r}
+counties_simple <- counties_shp |>
+  as.data.frame() |>
+  select(STATEFP, NAME)
+
+# readr::write_csv(counties_simple, "data/counties_simple.csv")
+```
+
+I literally went through the following Wikipedia page:
+
+* https://en.wikipedia.org/wiki/List_of_place_names_of_Native_American_origin_in_the_United_States
+
+```{r}
+counties_df <- readr::read_csv("data/counties_simple.csv")
+# counties_df$STATEFP <- as.character(counties_df$STATEFP)
+counties_shp <- counties_shp |>
+  left_join(counties_df, by = c("STATEFP", "NAME"))
+```
+
+```{r}
+p1 <- counties_shp |>
+  ggplot() +
+  geom_sf(aes(fill = name_origin)) +
+  labs(title = "Counties Whose Names are ",
+       subtitle = "of Native American Origin",
+       caption = "Data Source: US Census\nMap Created by Derek Sollberger",
+       x = "", y = "") +
+  scale_fill_manual(values = c("darkgreen", "gray75"),
+                      na.translate = FALSE) +
+  xlim(long_min, long_max) +
+  ylim(lat_min, lat_max) +
+  theme(axis.text.x = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks = element_blank(),
+        legend.position = "bottom",
+        legend.title = element_blank(),
+        panel.background = element_rect(fill = "white"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        plot.background = element_rect(fill = "white"),
+        plot.title = element_text(color = "darkgreen", face = "bold",
+                                  size = 25, hjust = 0.5),
+        plot.subtitle = element_text(color = "darkgreen",
+                                  size = 25, hjust = 0.5),
+        plot.caption = element_text(color = "darkgreen",
+                                  size = 10, hjust = 0.5))
+```
+
+```{r}
+# Calculate the centroid of each county of interest
+# https://stackoverflow.com/questions/49343958/do-the-values-returned-by-rgeosgcentroid-and-sfst-centroid-differ
+
+NatAM_counties <- counties_shp |>
+  filter(name_origin == "Native American origin")
+
+centers <- data.frame(
+  st_coordinates(st_centroid(NatAM_counties$geometry)), 
+  id=NatAM_counties$NAME)
+```
+
+```{r}
+p2 <- counties_shp |>
+  ggplot() +
+  geom_sf() +
+  
+  # https://ggplot2.tidyverse.org/reference/geom_density_2d.html
+  geom_density_2d_filled(aes(x = X, y = Y, fill = ..level..), 
+                         alpha = 0.5,
+                         data = centers) +
+  labs(title = "",
+       subtitle = "",
+       caption = "Map Prompt Mondays\nTheme: HeatMap",
+       x = "", y = "") +
+  xlim(long_min, long_max) +
+  ylim(lat_min, lat_max) +
+  theme(axis.text.x = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks = element_blank(),
+        legend.position = "none",
+        legend.title = element_blank(),
+        panel.background = element_rect(fill = "white"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        plot.background = element_rect(fill = "white"),
+        plot.title = element_text(color = "darkgreen", face = "bold",
+                                  size = 30, hjust = 0.5),
+        plot.subtitle = element_text(color = "darkgreen",
+                                  size = 20, hjust = 0.5),
+        plot.caption = element_text(color = "darkgreen",
+                                  size = 10, hjust = 0.5))
+```
+
+```{r}
+# patchwork
+p1 + p2
+```
+

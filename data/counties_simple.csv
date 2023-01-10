@@ -1,0 +1,3142 @@
+STATEFP,STATE,NAME,name_origin
+01,Alabama,Autauga,Native American origin
+01,Alabama,Baldwin,other origin
+01,Alabama,Barbour,other origin
+01,Alabama,Bibb,other origin
+01,Alabama,Blount,other origin
+01,Alabama,Bullock,other origin
+01,Alabama,Butler,other origin
+01,Alabama,Calhoun,other origin
+01,Alabama,Chambers,other origin
+01,Alabama,Cherokee,Native American origin
+01,Alabama,Chilton,other origin
+01,Alabama,Choctaw,Native American origin
+01,Alabama,Clarke,other origin
+01,Alabama,Clay,other origin
+01,Alabama,Cleburne,other origin
+01,Alabama,Coffee,other origin
+01,Alabama,Colbert,other origin
+01,Alabama,Conecuh,Native American origin
+01,Alabama,Coosa,Native American origin
+01,Alabama,Covington,other origin
+01,Alabama,Crenshaw,other origin
+01,Alabama,Cullman,other origin
+01,Alabama,Dale,other origin
+01,Alabama,Dallas,other origin
+01,Alabama,DeKalb,other origin
+01,Alabama,Elmore,other origin
+01,Alabama,Escambia,Native American origin
+01,Alabama,Etowah,Native American origin
+01,Alabama,Fayette,other origin
+01,Alabama,Franklin,other origin
+01,Alabama,Geneva,other origin
+01,Alabama,Greene,other origin
+01,Alabama,Hale,other origin
+01,Alabama,Henry,other origin
+01,Alabama,Houston,other origin
+01,Alabama,Jackson,other origin
+01,Alabama,Jefferson,other origin
+01,Alabama,Lamar,other origin
+01,Alabama,Lauderdale,other origin
+01,Alabama,Lawrence,other origin
+01,Alabama,Lee,other origin
+01,Alabama,Limestone,other origin
+01,Alabama,Lowndes,other origin
+01,Alabama,Macon,other origin
+01,Alabama,Madison,other origin
+01,Alabama,Marengo,other origin
+01,Alabama,Marion,other origin
+01,Alabama,Marshall,other origin
+01,Alabama,Mobile,Native American origin
+01,Alabama,Monroe,other origin
+01,Alabama,Montgomery,other origin
+01,Alabama,Morgan,other origin
+01,Alabama,Perry,other origin
+01,Alabama,Pickens,other origin
+01,Alabama,Pike,other origin
+01,Alabama,Randolph,other origin
+01,Alabama,Russell,other origin
+01,Alabama,Shelby,other origin
+01,Alabama,St. Clair,other origin
+01,Alabama,Sumter,other origin
+01,Alabama,Talladega,Native American origin
+01,Alabama,Tallapoosa,Native American origin
+01,Alabama,Tuscaloosa,Native American origin
+01,Alabama,Walker,other origin
+01,Alabama,Washington,other origin
+01,Alabama,Wilcox,other origin
+01,Alabama,Winston,other origin
+02,Alaska,Aleutians East,Native American origin
+02,Alaska,Aleutians West,Native American origin
+02,Alaska,Anchorage,other origin
+02,Alaska,Bethel,other origin
+02,Alaska,Bristol Bay,other origin
+02,Alaska,Denali,other origin
+02,Alaska,Dillingham,other origin
+02,Alaska,Fairbanks North Star,other origin
+02,Alaska,Haines,other origin
+02,Alaska,Hoonah-Angoon,other origin
+02,Alaska,Juneau,other origin
+02,Alaska,Kenai Peninsula,Native American origin
+02,Alaska,Ketchikan Gateway,Native American origin
+02,Alaska,Kodiak Island,Native American origin
+02,Alaska,Kusilvak,other origin
+02,Alaska,Lake and Peninsula,other origin
+02,Alaska,Matanuska-Susitna,Native American origin
+02,Alaska,Nome,other origin
+02,Alaska,North Slope,other origin
+02,Alaska,Northwest Arctic,other origin
+02,Alaska,Petersburg,other origin
+02,Alaska,Prince of Wales-Hyder,other origin
+02,Alaska,Sitka,Native American origin
+02,Alaska,Skagway,Native American origin
+02,Alaska,Southeast Fairbanks,other origin
+02,Alaska,Valdez-Cordova,other origin
+02,Alaska,Wrangell,other origin
+02,Alaska,Yakutat,Native American origin
+02,Alaska,Yukon-Koyukuk,other origin
+04,Arizona,Apache,Native American origin
+04,Arizona,Cochise,Native American origin
+04,Arizona,Coconino,Native American origin
+04,Arizona,Gila,Native American origin
+04,Arizona,Graham,other origin
+04,Arizona,Greenlee,other origin
+04,Arizona,La Paz,other origin
+04,Arizona,Maricopa,Native American origin
+04,Arizona,Mohave,Native American origin
+04,Arizona,Navajo,Native American origin
+04,Arizona,Pima,Native American origin
+04,Arizona,Pinal,other origin
+04,Arizona,Santa Cruz,other origin
+04,Arizona,Yavapai,Native American origin
+04,Arizona,Yuma,Native American origin
+05,Arkansas,Arkansas,Native American origin
+05,Arkansas,Ashley,other origin
+05,Arkansas,Baxter,other origin
+05,Arkansas,Benton,other origin
+05,Arkansas,Boone,other origin
+05,Arkansas,Bradley,other origin
+05,Arkansas,Calhoun,other origin
+05,Arkansas,Carroll,other origin
+05,Arkansas,Chicot,other origin
+05,Arkansas,Clark,other origin
+05,Arkansas,Clay,other origin
+05,Arkansas,Cleburne,other origin
+05,Arkansas,Cleveland,other origin
+05,Arkansas,Columbia,other origin
+05,Arkansas,Conway,other origin
+05,Arkansas,Craighead,other origin
+05,Arkansas,Crawford,other origin
+05,Arkansas,Crittenden,other origin
+05,Arkansas,Cross,other origin
+05,Arkansas,Dallas,other origin
+05,Arkansas,Desha,other origin
+05,Arkansas,Drew,other origin
+05,Arkansas,Faulkner,other origin
+05,Arkansas,Franklin,other origin
+05,Arkansas,Fulton,other origin
+05,Arkansas,Garland,other origin
+05,Arkansas,Grant,other origin
+05,Arkansas,Greene,other origin
+05,Arkansas,Hempstead,other origin
+05,Arkansas,Hot Spring,other origin
+05,Arkansas,Howard,other origin
+05,Arkansas,Independence,other origin
+05,Arkansas,Izard,other origin
+05,Arkansas,Jackson,other origin
+05,Arkansas,Jefferson,other origin
+05,Arkansas,Johnson,other origin
+05,Arkansas,Lafayette,other origin
+05,Arkansas,Lawrence,other origin
+05,Arkansas,Lee,other origin
+05,Arkansas,Lincoln,other origin
+05,Arkansas,Little River,other origin
+05,Arkansas,Logan,other origin
+05,Arkansas,Lonoke,other origin
+05,Arkansas,Madison,other origin
+05,Arkansas,Marion,other origin
+05,Arkansas,Miller,other origin
+05,Arkansas,Mississippi,Native American origin
+05,Arkansas,Monroe,other origin
+05,Arkansas,Montgomery,other origin
+05,Arkansas,Nevada,other origin
+05,Arkansas,Newton,other origin
+05,Arkansas,Ouachita,Native American origin
+05,Arkansas,Perry,other origin
+05,Arkansas,Phillips,other origin
+05,Arkansas,Pike,other origin
+05,Arkansas,Poinsett,other origin
+05,Arkansas,Polk,other origin
+05,Arkansas,Pope,other origin
+05,Arkansas,Prairie,other origin
+05,Arkansas,Pulaski,other origin
+05,Arkansas,Randolph,other origin
+05,Arkansas,Saline,other origin
+05,Arkansas,Scott,other origin
+05,Arkansas,Searcy,other origin
+05,Arkansas,Sebastian,other origin
+05,Arkansas,Sevier,other origin
+05,Arkansas,Sharp,other origin
+05,Arkansas,St. Francis,other origin
+05,Arkansas,Stone,other origin
+05,Arkansas,Union,other origin
+05,Arkansas,Van Buren,other origin
+05,Arkansas,Washington,other origin
+05,Arkansas,White,other origin
+05,Arkansas,Woodruff,other origin
+05,Arkansas,Yell,other origin
+06,California,Alameda,other origin
+06,California,Alpine,other origin
+06,California,Amador,other origin
+06,California,Butte,other origin
+06,California,Calaveras,other origin
+06,California,Colusa,other origin
+06,California,Contra Costa,other origin
+06,California,Del Norte,other origin
+06,California,El Dorado,other origin
+06,California,Fresno,other origin
+06,California,Glenn,other origin
+06,California,Humboldt,other origin
+06,California,Imperial,other origin
+06,California,Inyo,Native American origin
+06,California,Kern,other origin
+06,California,Kings,other origin
+06,California,Lake,other origin
+06,California,Lassen,other origin
+06,California,Los Angeles,other origin
+06,California,Madera,other origin
+06,California,Marin,Native American origin
+06,California,Mariposa,other origin
+06,California,Mendocino,other origin
+06,California,Merced,other origin
+06,California,Modoc,Native American origin
+06,California,Mono,Native American origin
+06,California,Monterey,other origin
+06,California,Napa,Native American origin
+06,California,Nevada,other origin
+06,California,Orange,other origin
+06,California,Placer,other origin
+06,California,Plumas,other origin
+06,California,Riverside,other origin
+06,California,Sacramento,other origin
+06,California,San Benito,other origin
+06,California,San Bernardino,other origin
+06,California,San Diego,other origin
+06,California,San Francisco,other origin
+06,California,San Joaquin,other origin
+06,California,San Luis Obispo,other origin
+06,California,San Mateo,other origin
+06,California,Santa Barbara,other origin
+06,California,Santa Clara,other origin
+06,California,Santa Cruz,other origin
+06,California,Shasta,Native American origin
+06,California,Sierra,other origin
+06,California,Siskiyou,Native American origin
+06,California,Solano,Native American origin
+06,California,Sonoma,Native American origin
+06,California,Stanislaus,other origin
+06,California,Sutter,other origin
+06,California,Tehama,Native American origin
+06,California,Trinity,other origin
+06,California,Tulare,other origin
+06,California,Tuolumne,Native American origin
+06,California,Ventura,other origin
+06,California,Yolo,Native American origin
+06,California,Yuba,other origin
+08,Colorado,Adams,other origin
+08,Colorado,Alamosa,other origin
+08,Colorado,Arapahoe,Native American origin
+08,Colorado,Archuleta,other origin
+08,Colorado,Baca,other origin
+08,Colorado,Bent,other origin
+08,Colorado,Boulder,other origin
+08,Colorado,Broomfield,other origin
+08,Colorado,Chaffee,other origin
+08,Colorado,Cheyenne,Native American origin
+08,Colorado,Clear Creek,other origin
+08,Colorado,Conejos,other origin
+08,Colorado,Costilla,other origin
+08,Colorado,Crowley,other origin
+08,Colorado,Custer,other origin
+08,Colorado,Delta,other origin
+08,Colorado,Denver,other origin
+08,Colorado,Dolores,other origin
+08,Colorado,Douglas,other origin
+08,Colorado,Eagle,other origin
+08,Colorado,El Paso,other origin
+08,Colorado,Elbert,other origin
+08,Colorado,Fremont,other origin
+08,Colorado,Garfield,other origin
+08,Colorado,Gilpin,other origin
+08,Colorado,Grand,other origin
+08,Colorado,Gunnison,other origin
+08,Colorado,Hinsdale,other origin
+08,Colorado,Huerfano,other origin
+08,Colorado,Jackson,other origin
+08,Colorado,Jefferson,other origin
+08,Colorado,Kiowa,Native American origin
+08,Colorado,Kit Carson,other origin
+08,Colorado,La Plata,other origin
+08,Colorado,Lake,other origin
+08,Colorado,Larimer,other origin
+08,Colorado,Las Animas,other origin
+08,Colorado,Lincoln,other origin
+08,Colorado,Logan,other origin
+08,Colorado,Mesa,other origin
+08,Colorado,Mineral,other origin
+08,Colorado,Moffat,other origin
+08,Colorado,Montezuma,Native American origin
+08,Colorado,Montrose,other origin
+08,Colorado,Morgan,other origin
+08,Colorado,Otero,other origin
+08,Colorado,Ouray,Native American origin
+08,Colorado,Park,other origin
+08,Colorado,Phillips,other origin
+08,Colorado,Pitkin,other origin
+08,Colorado,Prowers,other origin
+08,Colorado,Pueblo,other origin
+08,Colorado,Rio Blanco,other origin
+08,Colorado,Rio Grande,other origin
+08,Colorado,Routt,other origin
+08,Colorado,Saguache,Native American origin
+08,Colorado,San Juan,other origin
+08,Colorado,San Miguel,other origin
+08,Colorado,Sedgwick,other origin
+08,Colorado,Summit,other origin
+08,Colorado,Teller,other origin
+08,Colorado,Washington,other origin
+08,Colorado,Weld,other origin
+08,Colorado,Yuma,Native American origin
+09,Connecticut,Fairfield,other origin
+09,Connecticut,Hartford,other origin
+09,Connecticut,Litchfield,other origin
+09,Connecticut,Middlesex,other origin
+09,Connecticut,New Haven,other origin
+09,Connecticut,New London,other origin
+09,Connecticut,Tolland,other origin
+09,Connecticut,Windham,other origin
+10,Delaware,Kent,other origin
+10,Delaware,New Castle,other origin
+10,Delaware,Sussex,other origin
+11,District of Columbia,District of Columbia,other origin
+12,Florida,Alachua,Native American origin
+12,Florida,Baker,other origin
+12,Florida,Bay,other origin
+12,Florida,Bradford,other origin
+12,Florida,Brevard,other origin
+12,Florida,Broward,other origin
+12,Florida,Calhoun,other origin
+12,Florida,Charlotte,other origin
+12,Florida,Citrus,other origin
+12,Florida,Clay,other origin
+12,Florida,Collier,other origin
+12,Florida,Columbia,other origin
+12,Florida,DeSoto,other origin
+12,Florida,Dixie,other origin
+12,Florida,Duval,other origin
+12,Florida,Escambia,Native American origin
+12,Florida,Flagler,other origin
+12,Florida,Franklin,other origin
+12,Florida,Gadsden,other origin
+12,Florida,Gilchrist,other origin
+12,Florida,Glades,other origin
+12,Florida,Gulf,other origin
+12,Florida,Hamilton,other origin
+12,Florida,Hardee,other origin
+12,Florida,Hendry,other origin
+12,Florida,Hernando,other origin
+12,Florida,Highlands,other origin
+12,Florida,Hillsborough,other origin
+12,Florida,Holmes,other origin
+12,Florida,Indian River,other origin
+12,Florida,Jackson,other origin
+12,Florida,Jefferson,other origin
+12,Florida,Lafayette,other origin
+12,Florida,Lake,other origin
+12,Florida,Lee,other origin
+12,Florida,Leon,other origin
+12,Florida,Levy,other origin
+12,Florida,Liberty,other origin
+12,Florida,Madison,other origin
+12,Florida,Manatee,Native American origin
+12,Florida,Marion,other origin
+12,Florida,Martin,other origin
+12,Florida,Miami-Dade,other origin
+12,Florida,Monroe,other origin
+12,Florida,Nassau,other origin
+12,Florida,Okaloosa,Native American origin
+12,Florida,Okeechobee,Native American origin
+12,Florida,Orange,other origin
+12,Florida,Osceola,Native American origin
+12,Florida,Palm Beach,other origin
+12,Florida,Pasco,other origin
+12,Florida,Pinellas,other origin
+12,Florida,Polk,other origin
+12,Florida,Putnam,other origin
+12,Florida,Santa Rosa,other origin
+12,Florida,Sarasota,Native American origin
+12,Florida,Seminole,Native American origin
+12,Florida,St. Johns,other origin
+12,Florida,St. Lucie,other origin
+12,Florida,Sumter,other origin
+12,Florida,Suwannee,Native American origin
+12,Florida,Taylor,other origin
+12,Florida,Union,other origin
+12,Florida,Volusia,Native American origin
+12,Florida,Wakulla,Native American origin
+12,Florida,Walton,other origin
+12,Florida,Washington,other origin
+13,Georgia,Appling,other origin
+13,Georgia,Atkinson,other origin
+13,Georgia,Bacon,other origin
+13,Georgia,Baker,other origin
+13,Georgia,Baldwin,other origin
+13,Georgia,Banks,other origin
+13,Georgia,Barrow,other origin
+13,Georgia,Bartow,other origin
+13,Georgia,Ben Hill,other origin
+13,Georgia,Berrien,other origin
+13,Georgia,Bibb,other origin
+13,Georgia,Bleckley,other origin
+13,Georgia,Brantley,other origin
+13,Georgia,Brooks,other origin
+13,Georgia,Bryan,other origin
+13,Georgia,Bulloch,other origin
+13,Georgia,Burke,other origin
+13,Georgia,Butts,other origin
+13,Georgia,Calhoun,other origin
+13,Georgia,Camden,other origin
+13,Georgia,Candler,other origin
+13,Georgia,Carroll,other origin
+13,Georgia,Catoosa,Native American origin
+13,Georgia,Charlton,other origin
+13,Georgia,Chatham,other origin
+13,Georgia,Chattahoochee,Native American origin
+13,Georgia,Chattooga,Native American origin
+13,Georgia,Cherokee,Native American origin
+13,Georgia,Clarke,other origin
+13,Georgia,Clay,other origin
+13,Georgia,Clayton,other origin
+13,Georgia,Clinch,other origin
+13,Georgia,Cobb,other origin
+13,Georgia,Coffee,other origin
+13,Georgia,Colquitt,other origin
+13,Georgia,Columbia,other origin
+13,Georgia,Cook,other origin
+13,Georgia,Coweta,Native American origin
+13,Georgia,Crawford,other origin
+13,Georgia,Crisp,other origin
+13,Georgia,Dade,other origin
+13,Georgia,Dawson,other origin
+13,Georgia,Decatur,other origin
+13,Georgia,DeKalb,other origin
+13,Georgia,Dodge,other origin
+13,Georgia,Dooly,other origin
+13,Georgia,Dougherty,other origin
+13,Georgia,Douglas,other origin
+13,Georgia,Early,other origin
+13,Georgia,Echols,other origin
+13,Georgia,Effingham,other origin
+13,Georgia,Elbert,other origin
+13,Georgia,Emanuel,other origin
+13,Georgia,Evans,other origin
+13,Georgia,Fannin,other origin
+13,Georgia,Fayette,other origin
+13,Georgia,Floyd,other origin
+13,Georgia,Forsyth,other origin
+13,Georgia,Franklin,other origin
+13,Georgia,Fulton,other origin
+13,Georgia,Gilmer,other origin
+13,Georgia,Glascock,other origin
+13,Georgia,Glynn,other origin
+13,Georgia,Gordon,other origin
+13,Georgia,Grady,other origin
+13,Georgia,Greene,other origin
+13,Georgia,Gwinnett,other origin
+13,Georgia,Habersham,other origin
+13,Georgia,Hall,other origin
+13,Georgia,Hancock,other origin
+13,Georgia,Haralson,other origin
+13,Georgia,Harris,other origin
+13,Georgia,Hart,other origin
+13,Georgia,Heard,other origin
+13,Georgia,Henry,other origin
+13,Georgia,Houston,other origin
+13,Georgia,Irwin,other origin
+13,Georgia,Jackson,other origin
+13,Georgia,Jasper,other origin
+13,Georgia,Jeff Davis,other origin
+13,Georgia,Jefferson,other origin
+13,Georgia,Jenkins,other origin
+13,Georgia,Johnson,other origin
+13,Georgia,Jones,other origin
+13,Georgia,Lamar,other origin
+13,Georgia,Lanier,other origin
+13,Georgia,Laurens,other origin
+13,Georgia,Lee,other origin
+13,Georgia,Liberty,other origin
+13,Georgia,Lincoln,other origin
+13,Georgia,Long,other origin
+13,Georgia,Lowndes,other origin
+13,Georgia,Lumpkin,other origin
+13,Georgia,Macon,other origin
+13,Georgia,Madison,other origin
+13,Georgia,Marion,other origin
+13,Georgia,McDuffie,other origin
+13,Georgia,McIntosh,other origin
+13,Georgia,Meriwether,other origin
+13,Georgia,Miller,other origin
+13,Georgia,Mitchell,other origin
+13,Georgia,Monroe,other origin
+13,Georgia,Montgomery,other origin
+13,Georgia,Morgan,other origin
+13,Georgia,Murray,other origin
+13,Georgia,Muscogee,Native American origin
+13,Georgia,Newton,other origin
+13,Georgia,Oconee,Native American origin
+13,Georgia,Oglethorpe,other origin
+13,Georgia,Paulding,other origin
+13,Georgia,Peach,other origin
+13,Georgia,Pickens,other origin
+13,Georgia,Pierce,other origin
+13,Georgia,Pike,other origin
+13,Georgia,Polk,other origin
+13,Georgia,Pulaski,other origin
+13,Georgia,Putnam,other origin
+13,Georgia,Quitman,other origin
+13,Georgia,Rabun,other origin
+13,Georgia,Randolph,other origin
+13,Georgia,Richmond,other origin
+13,Georgia,Rockdale,other origin
+13,Georgia,Schley,other origin
+13,Georgia,Screven,other origin
+13,Georgia,Seminole,Native American origin
+13,Georgia,Spalding,other origin
+13,Georgia,Stephens,other origin
+13,Georgia,Stewart,other origin
+13,Georgia,Sumter,other origin
+13,Georgia,Talbot,other origin
+13,Georgia,Taliaferro,other origin
+13,Georgia,Tattnall,other origin
+13,Georgia,Taylor,other origin
+13,Georgia,Telfair,other origin
+13,Georgia,Terrell,other origin
+13,Georgia,Thomas,other origin
+13,Georgia,Tift,other origin
+13,Georgia,Toombs,other origin
+13,Georgia,Towns,other origin
+13,Georgia,Treutlen,other origin
+13,Georgia,Troup,other origin
+13,Georgia,Turner,other origin
+13,Georgia,Twiggs,other origin
+13,Georgia,Union,other origin
+13,Georgia,Upson,other origin
+13,Georgia,Walker,other origin
+13,Georgia,Walton,other origin
+13,Georgia,Ware,other origin
+13,Georgia,Warren,other origin
+13,Georgia,Washington,other origin
+13,Georgia,Wayne,other origin
+13,Georgia,Webster,other origin
+13,Georgia,Wheeler,other origin
+13,Georgia,White,other origin
+13,Georgia,Whitfield,other origin
+13,Georgia,Wilcox,other origin
+13,Georgia,Wilkes,other origin
+13,Georgia,Wilkinson,other origin
+13,Georgia,Worth,other origin
+15,Hawaii,Hawaii,Native American origin
+15,Hawaii,Honolulu,Native American origin
+15,Hawaii,Kalawao,Native American origin
+15,Hawaii,Kauai,Native American origin
+15,Hawaii,Maui,Native American origin
+16,Idaho,Ada,other origin
+16,Idaho,Adams,other origin
+16,Idaho,Bannock,other origin
+16,Idaho,Bear Lake,other origin
+16,Idaho,Benewah,Native American origin
+16,Idaho,Bingham,other origin
+16,Idaho,Blaine,other origin
+16,Idaho,Boise,other origin
+16,Idaho,Bonner,other origin
+16,Idaho,Bonneville,other origin
+16,Idaho,Boundary,other origin
+16,Idaho,Butte,other origin
+16,Idaho,Camas,other origin
+16,Idaho,Canyon,other origin
+16,Idaho,Caribou,Native American origin
+16,Idaho,Cassia,other origin
+16,Idaho,Clark,other origin
+16,Idaho,Clearwater,other origin
+16,Idaho,Custer,other origin
+16,Idaho,Elmore,other origin
+16,Idaho,Franklin,other origin
+16,Idaho,Fremont,other origin
+16,Idaho,Gem,other origin
+16,Idaho,Gooding,other origin
+16,Idaho,Idaho,other origin
+16,Idaho,Jefferson,other origin
+16,Idaho,Jerome,other origin
+16,Idaho,Kootenai,Native American origin
+16,Idaho,Latah,Native American origin
+16,Idaho,Lemhi,other origin
+16,Idaho,Lewis,other origin
+16,Idaho,Lincoln,other origin
+16,Idaho,Madison,other origin
+16,Idaho,Minidoka,Native American origin
+16,Idaho,Nez Perce,other origin
+16,Idaho,Oneida,Native American origin
+16,Idaho,Owyhee,Native American origin
+16,Idaho,Payette,other origin
+16,Idaho,Power,other origin
+16,Idaho,Shoshone,Native American origin
+16,Idaho,Teton,other origin
+16,Idaho,Twin Falls,other origin
+16,Idaho,Valley,other origin
+16,Idaho,Washington,other origin
+17,Illinois,Adams,other origin
+17,Illinois,Alexander,other origin
+17,Illinois,Bond,other origin
+17,Illinois,Boone,other origin
+17,Illinois,Brown,other origin
+17,Illinois,Bureau,other origin
+17,Illinois,Calhoun,other origin
+17,Illinois,Carroll,other origin
+17,Illinois,Cass,other origin
+17,Illinois,Champaign,other origin
+17,Illinois,Christian,other origin
+17,Illinois,Clark,other origin
+17,Illinois,Clay,other origin
+17,Illinois,Clinton,other origin
+17,Illinois,Coles,other origin
+17,Illinois,Cook,other origin
+17,Illinois,Crawford,other origin
+17,Illinois,Cumberland,other origin
+17,Illinois,De Witt,other origin
+17,Illinois,DeKalb,other origin
+17,Illinois,Douglas,other origin
+17,Illinois,DuPage,other origin
+17,Illinois,Edgar,other origin
+17,Illinois,Edwards,other origin
+17,Illinois,Effingham,other origin
+17,Illinois,Fayette,other origin
+17,Illinois,Ford,other origin
+17,Illinois,Franklin,other origin
+17,Illinois,Fulton,other origin
+17,Illinois,Gallatin,other origin
+17,Illinois,Greene,other origin
+17,Illinois,Grundy,other origin
+17,Illinois,Hamilton,other origin
+17,Illinois,Hancock,other origin
+17,Illinois,Hardin,other origin
+17,Illinois,Henderson,other origin
+17,Illinois,Henry,other origin
+17,Illinois,Iroquois,Native American origin
+17,Illinois,Jackson,other origin
+17,Illinois,Jasper,other origin
+17,Illinois,Jefferson,other origin
+17,Illinois,Jersey,other origin
+17,Illinois,Jo Daviess,other origin
+17,Illinois,Johnson,other origin
+17,Illinois,Kane,other origin
+17,Illinois,Kankakee,Native American origin
+17,Illinois,Kendall,other origin
+17,Illinois,Knox,other origin
+17,Illinois,Lake,other origin
+17,Illinois,LaSalle,other origin
+17,Illinois,Lawrence,other origin
+17,Illinois,Lee,other origin
+17,Illinois,Livingston,other origin
+17,Illinois,Logan,other origin
+17,Illinois,Macon,other origin
+17,Illinois,Macoupin,Native American origin
+17,Illinois,Madison,other origin
+17,Illinois,Marion,other origin
+17,Illinois,Marshall,other origin
+17,Illinois,Mason,other origin
+17,Illinois,Massac,other origin
+17,Illinois,McDonough,other origin
+17,Illinois,McHenry,other origin
+17,Illinois,McLean,other origin
+17,Illinois,Menard,other origin
+17,Illinois,Mercer,other origin
+17,Illinois,Monroe,other origin
+17,Illinois,Montgomery,other origin
+17,Illinois,Morgan,other origin
+17,Illinois,Moultrie,other origin
+17,Illinois,Ogle,other origin
+17,Illinois,Peoria,Native American origin
+17,Illinois,Perry,other origin
+17,Illinois,Piatt,other origin
+17,Illinois,Pike,other origin
+17,Illinois,Pope,other origin
+17,Illinois,Pulaski,other origin
+17,Illinois,Putnam,other origin
+17,Illinois,Randolph,other origin
+17,Illinois,Richland,other origin
+17,Illinois,Rock Island,other origin
+17,Illinois,Saline,other origin
+17,Illinois,Sangamon,Native American origin
+17,Illinois,Schuyler,other origin
+17,Illinois,Scott,other origin
+17,Illinois,Shelby,other origin
+17,Illinois,St. Clair,other origin
+17,Illinois,Stark,other origin
+17,Illinois,Stephenson,other origin
+17,Illinois,Tazewell,other origin
+17,Illinois,Union,other origin
+17,Illinois,Vermilion,other origin
+17,Illinois,Wabash,Native American origin
+17,Illinois,Warren,other origin
+17,Illinois,Washington,other origin
+17,Illinois,Wayne,other origin
+17,Illinois,White,other origin
+17,Illinois,Whiteside,other origin
+17,Illinois,Will,other origin
+17,Illinois,Williamson,other origin
+17,Illinois,Winnebago,Native American origin
+17,Illinois,Woodford,other origin
+18,Indiana,Adams,other origin
+18,Indiana,Allen,other origin
+18,Indiana,Bartholomew,other origin
+18,Indiana,Benton,other origin
+18,Indiana,Blackford,other origin
+18,Indiana,Boone,other origin
+18,Indiana,Brown,other origin
+18,Indiana,Carroll,other origin
+18,Indiana,Cass,other origin
+18,Indiana,Clark,other origin
+18,Indiana,Clay,other origin
+18,Indiana,Clinton,other origin
+18,Indiana,Crawford,other origin
+18,Indiana,Daviess,other origin
+18,Indiana,Dearborn,other origin
+18,Indiana,Decatur,other origin
+18,Indiana,DeKalb,other origin
+18,Indiana,Delaware,Native American origin
+18,Indiana,Dubois,other origin
+18,Indiana,Elkhart,Native American origin
+18,Indiana,Fayette,other origin
+18,Indiana,Floyd,other origin
+18,Indiana,Fountain,other origin
+18,Indiana,Franklin,other origin
+18,Indiana,Fulton,other origin
+18,Indiana,Gibson,other origin
+18,Indiana,Grant,other origin
+18,Indiana,Greene,other origin
+18,Indiana,Hamilton,other origin
+18,Indiana,Hancock,other origin
+18,Indiana,Harrison,other origin
+18,Indiana,Hendricks,other origin
+18,Indiana,Henry,other origin
+18,Indiana,Howard,other origin
+18,Indiana,Huntington,other origin
+18,Indiana,Jackson,other origin
+18,Indiana,Jasper,other origin
+18,Indiana,Jay,other origin
+18,Indiana,Jefferson,other origin
+18,Indiana,Jennings,other origin
+18,Indiana,Johnson,other origin
+18,Indiana,Knox,other origin
+18,Indiana,Kosciusko,other origin
+18,Indiana,LaGrange,other origin
+18,Indiana,Lake,other origin
+18,Indiana,LaPorte,other origin
+18,Indiana,Lawrence,other origin
+18,Indiana,Madison,other origin
+18,Indiana,Marion,other origin
+18,Indiana,Marshall,other origin
+18,Indiana,Martin,other origin
+18,Indiana,Miami,other origin
+18,Indiana,Monroe,other origin
+18,Indiana,Montgomery,other origin
+18,Indiana,Morgan,other origin
+18,Indiana,Newton,other origin
+18,Indiana,Noble,other origin
+18,Indiana,Ohio,Native American origin
+18,Indiana,Orange,other origin
+18,Indiana,Owen,other origin
+18,Indiana,Parke,other origin
+18,Indiana,Perry,other origin
+18,Indiana,Pike,other origin
+18,Indiana,Porter,other origin
+18,Indiana,Posey,other origin
+18,Indiana,Pulaski,other origin
+18,Indiana,Putnam,other origin
+18,Indiana,Randolph,other origin
+18,Indiana,Ripley,other origin
+18,Indiana,Rush,other origin
+18,Indiana,Scott,other origin
+18,Indiana,Shelby,other origin
+18,Indiana,Spencer,other origin
+18,Indiana,St. Joseph,other origin
+18,Indiana,Starke,other origin
+18,Indiana,Steuben,other origin
+18,Indiana,Sullivan,other origin
+18,Indiana,Switzerland,other origin
+18,Indiana,Tippecanoe,Native American origin
+18,Indiana,Tipton,other origin
+18,Indiana,Union,other origin
+18,Indiana,Vanderburgh,other origin
+18,Indiana,Vermillion,Native American origin
+18,Indiana,Vigo,other origin
+18,Indiana,Wabash,Native American origin
+18,Indiana,Warren,other origin
+18,Indiana,Warrick,other origin
+18,Indiana,Washington,other origin
+18,Indiana,Wayne,other origin
+18,Indiana,Wells,other origin
+18,Indiana,White,other origin
+18,Indiana,Whitley,other origin
+19,Iowa,Adair,other origin
+19,Iowa,Adams,other origin
+19,Iowa,Allamakee,Native American origin
+19,Iowa,Appanoose,Native American origin
+19,Iowa,Audubon,other origin
+19,Iowa,Benton,other origin
+19,Iowa,Black Hawk,other origin
+19,Iowa,Boone,other origin
+19,Iowa,Bremer,other origin
+19,Iowa,Buchanan,other origin
+19,Iowa,Buena Vista,other origin
+19,Iowa,Butler,other origin
+19,Iowa,Calhoun,other origin
+19,Iowa,Carroll,other origin
+19,Iowa,Cass,other origin
+19,Iowa,Cedar,other origin
+19,Iowa,Cerro Gordo,other origin
+19,Iowa,Cherokee,Native American origin
+19,Iowa,Chickasaw,Native American origin
+19,Iowa,Clarke,other origin
+19,Iowa,Clay,other origin
+19,Iowa,Clayton,other origin
+19,Iowa,Clinton,other origin
+19,Iowa,Crawford,other origin
+19,Iowa,Dallas,other origin
+19,Iowa,Davis,other origin
+19,Iowa,Decatur,other origin
+19,Iowa,Delaware,other origin
+19,Iowa,Des Moines,other origin
+19,Iowa,Dickinson,other origin
+19,Iowa,Dubuque,other origin
+19,Iowa,Emmet,other origin
+19,Iowa,Fayette,other origin
+19,Iowa,Floyd,other origin
+19,Iowa,Franklin,other origin
+19,Iowa,Fremont,other origin
+19,Iowa,Greene,other origin
+19,Iowa,Grundy,other origin
+19,Iowa,Guthrie,other origin
+19,Iowa,Hamilton,other origin
+19,Iowa,Hancock,other origin
+19,Iowa,Hardin,other origin
+19,Iowa,Harrison,other origin
+19,Iowa,Henry,other origin
+19,Iowa,Howard,other origin
+19,Iowa,Humboldt,other origin
+19,Iowa,Ida,other origin
+19,Iowa,Iowa,other origin
+19,Iowa,Jackson,other origin
+19,Iowa,Jasper,other origin
+19,Iowa,Jefferson,other origin
+19,Iowa,Johnson,other origin
+19,Iowa,Jones,other origin
+19,Iowa,Keokuk,Native American origin
+19,Iowa,Kossuth,other origin
+19,Iowa,Lee,other origin
+19,Iowa,Linn,other origin
+19,Iowa,Louisa,other origin
+19,Iowa,Lucas,other origin
+19,Iowa,Lyon,other origin
+19,Iowa,Madison,other origin
+19,Iowa,Mahaska,Native American origin
+19,Iowa,Marion,other origin
+19,Iowa,Marshall,other origin
+19,Iowa,Mills,other origin
+19,Iowa,Mitchell,other origin
+19,Iowa,Monona,other origin
+19,Iowa,Monroe,other origin
+19,Iowa,Montgomery,other origin
+19,Iowa,Muscatine,Native American origin
+19,Iowa,O'Brien,other origin
+19,Iowa,Osceola,Native American origin
+19,Iowa,Page,other origin
+19,Iowa,Palo Alto,other origin
+19,Iowa,Plymouth,other origin
+19,Iowa,Pocahontas,Native American origin
+19,Iowa,Polk,other origin
+19,Iowa,Pottawattamie,Native American origin
+19,Iowa,Poweshiek,Native American origin
+19,Iowa,Ringgold,other origin
+19,Iowa,Sac,Native American origin
+19,Iowa,Scott,other origin
+19,Iowa,Shelby,other origin
+19,Iowa,Sioux,Native American origin
+19,Iowa,Story,other origin
+19,Iowa,Tama,Native American origin
+19,Iowa,Taylor,other origin
+19,Iowa,Union,other origin
+19,Iowa,Van Buren,other origin
+19,Iowa,Wapello,Native American origin
+19,Iowa,Warren,other origin
+19,Iowa,Washington,other origin
+19,Iowa,Wayne,other origin
+19,Iowa,Webster,other origin
+19,Iowa,Winnebago,Native American origin
+19,Iowa,Winneshiek,Native American origin
+19,Iowa,Woodbury,other origin
+19,Iowa,Worth,other origin
+19,Iowa,Wright,other origin
+20,Kansas,Allen,other origin
+20,Kansas,Anderson,other origin
+20,Kansas,Atchison,other origin
+20,Kansas,Barber,other origin
+20,Kansas,Barton,other origin
+20,Kansas,Bourbon,other origin
+20,Kansas,Brown,other origin
+20,Kansas,Butler,other origin
+20,Kansas,Chase,other origin
+20,Kansas,Chautauqua,Native American origin
+20,Kansas,Cherokee,Native American origin
+20,Kansas,Cheyenne,Native American origin
+20,Kansas,Clark,other origin
+20,Kansas,Clay,other origin
+20,Kansas,Cloud,other origin
+20,Kansas,Coffey,other origin
+20,Kansas,Comanche,Native American origin
+20,Kansas,Cowley,other origin
+20,Kansas,Crawford,other origin
+20,Kansas,Decatur,other origin
+20,Kansas,Dickinson,other origin
+20,Kansas,Doniphan,other origin
+20,Kansas,Douglas,other origin
+20,Kansas,Edwards,other origin
+20,Kansas,Elk,other origin
+20,Kansas,Ellis,other origin
+20,Kansas,Ellsworth,other origin
+20,Kansas,Finney,other origin
+20,Kansas,Ford,other origin
+20,Kansas,Franklin,other origin
+20,Kansas,Geary,other origin
+20,Kansas,Gove,other origin
+20,Kansas,Graham,other origin
+20,Kansas,Grant,other origin
+20,Kansas,Gray,other origin
+20,Kansas,Greeley,other origin
+20,Kansas,Greenwood,other origin
+20,Kansas,Hamilton,other origin
+20,Kansas,Harper,other origin
+20,Kansas,Harvey,other origin
+20,Kansas,Haskell,other origin
+20,Kansas,Hodgeman,other origin
+20,Kansas,Jackson,other origin
+20,Kansas,Jefferson,other origin
+20,Kansas,Jewell,other origin
+20,Kansas,Johnson,other origin
+20,Kansas,Kearny,other origin
+20,Kansas,Kingman,other origin
+20,Kansas,Kiowa,Native American origin
+20,Kansas,Labette,other origin
+20,Kansas,Lane,other origin
+20,Kansas,Leavenworth,other origin
+20,Kansas,Lincoln,other origin
+20,Kansas,Linn,other origin
+20,Kansas,Logan,other origin
+20,Kansas,Lyon,other origin
+20,Kansas,Marion,other origin
+20,Kansas,Marshall,other origin
+20,Kansas,McPherson,other origin
+20,Kansas,Meade,other origin
+20,Kansas,Miami,Native American origin
+20,Kansas,Mitchell,other origin
+20,Kansas,Montgomery,other origin
+20,Kansas,Morris,other origin
+20,Kansas,Morton,other origin
+20,Kansas,Nemaha,Native American origin
+20,Kansas,Neosho,Native American origin
+20,Kansas,Ness,other origin
+20,Kansas,Norton,other origin
+20,Kansas,Osage,Native American origin
+20,Kansas,Osborne,other origin
+20,Kansas,Ottawa,Native American origin
+20,Kansas,Pawnee,Native American origin
+20,Kansas,Phillips,other origin
+20,Kansas,Pottawatomie,Native American origin
+20,Kansas,Pratt,other origin
+20,Kansas,Rawlins,other origin
+20,Kansas,Reno,other origin
+20,Kansas,Republic,other origin
+20,Kansas,Rice,other origin
+20,Kansas,Riley,other origin
+20,Kansas,Rooks,other origin
+20,Kansas,Rush,other origin
+20,Kansas,Russell,other origin
+20,Kansas,Saline,other origin
+20,Kansas,Scott,other origin
+20,Kansas,Sedgwick,other origin
+20,Kansas,Seward,other origin
+20,Kansas,Shawnee,Native American origin
+20,Kansas,Sheridan,other origin
+20,Kansas,Sherman,other origin
+20,Kansas,Smith,other origin
+20,Kansas,Stafford,other origin
+20,Kansas,Stanton,other origin
+20,Kansas,Stevens,other origin
+20,Kansas,Sumner,other origin
+20,Kansas,Thomas,other origin
+20,Kansas,Trego,other origin
+20,Kansas,Wabaunsee,Native American origin
+20,Kansas,Wallace,other origin
+20,Kansas,Washington,other origin
+20,Kansas,Wichita,Native American origin
+20,Kansas,Wilson,other origin
+20,Kansas,Woodson,other origin
+20,Kansas,Wyandotte,Native American origin
+21,Kentucky,Adair,other origin
+21,Kentucky,Allen,other origin
+21,Kentucky,Anderson,other origin
+21,Kentucky,Ballard,other origin
+21,Kentucky,Barren,other origin
+21,Kentucky,Bath,other origin
+21,Kentucky,Bell,other origin
+21,Kentucky,Boone,other origin
+21,Kentucky,Bourbon,other origin
+21,Kentucky,Boyd,other origin
+21,Kentucky,Boyle,other origin
+21,Kentucky,Bracken,other origin
+21,Kentucky,Breathitt,other origin
+21,Kentucky,Breckinridge,other origin
+21,Kentucky,Bullitt,other origin
+21,Kentucky,Butler,other origin
+21,Kentucky,Caldwell,other origin
+21,Kentucky,Calloway,other origin
+21,Kentucky,Campbell,other origin
+21,Kentucky,Carlisle,other origin
+21,Kentucky,Carroll,other origin
+21,Kentucky,Carter,other origin
+21,Kentucky,Casey,other origin
+21,Kentucky,Christian,other origin
+21,Kentucky,Clark,other origin
+21,Kentucky,Clay,other origin
+21,Kentucky,Clinton,other origin
+21,Kentucky,Crittenden,other origin
+21,Kentucky,Cumberland,other origin
+21,Kentucky,Daviess,other origin
+21,Kentucky,Edmonson,other origin
+21,Kentucky,Elliott,other origin
+21,Kentucky,Estill,other origin
+21,Kentucky,Fayette,other origin
+21,Kentucky,Fleming,other origin
+21,Kentucky,Floyd,other origin
+21,Kentucky,Franklin,other origin
+21,Kentucky,Fulton,other origin
+21,Kentucky,Gallatin,other origin
+21,Kentucky,Garrard,other origin
+21,Kentucky,Grant,other origin
+21,Kentucky,Graves,other origin
+21,Kentucky,Grayson,other origin
+21,Kentucky,Green,other origin
+21,Kentucky,Greenup,other origin
+21,Kentucky,Hancock,other origin
+21,Kentucky,Hardin,other origin
+21,Kentucky,Harlan,other origin
+21,Kentucky,Harrison,other origin
+21,Kentucky,Hart,other origin
+21,Kentucky,Henderson,other origin
+21,Kentucky,Henry,other origin
+21,Kentucky,Hickman,other origin
+21,Kentucky,Hopkins,other origin
+21,Kentucky,Jackson,other origin
+21,Kentucky,Jefferson,other origin
+21,Kentucky,Jessamine,other origin
+21,Kentucky,Johnson,other origin
+21,Kentucky,Kenton,other origin
+21,Kentucky,Knott,other origin
+21,Kentucky,Knox,other origin
+21,Kentucky,Larue,other origin
+21,Kentucky,Laurel,other origin
+21,Kentucky,Lawrence,other origin
+21,Kentucky,Lee,other origin
+21,Kentucky,Leslie,other origin
+21,Kentucky,Letcher,other origin
+21,Kentucky,Lewis,other origin
+21,Kentucky,Lincoln,other origin
+21,Kentucky,Livingston,other origin
+21,Kentucky,Logan,other origin
+21,Kentucky,Lyon,other origin
+21,Kentucky,Madison,other origin
+21,Kentucky,Magoffin,other origin
+21,Kentucky,Marion,other origin
+21,Kentucky,Marshall,other origin
+21,Kentucky,Martin,other origin
+21,Kentucky,Mason,other origin
+21,Kentucky,McCracken,other origin
+21,Kentucky,McCreary,other origin
+21,Kentucky,McLean,other origin
+21,Kentucky,Meade,other origin
+21,Kentucky,Menifee,other origin
+21,Kentucky,Mercer,other origin
+21,Kentucky,Metcalfe,other origin
+21,Kentucky,Monroe,other origin
+21,Kentucky,Montgomery,other origin
+21,Kentucky,Morgan,other origin
+21,Kentucky,Muhlenberg,other origin
+21,Kentucky,Nelson,other origin
+21,Kentucky,Nicholas,other origin
+21,Kentucky,Ohio,other origin
+21,Kentucky,Oldham,other origin
+21,Kentucky,Owen,other origin
+21,Kentucky,Owsley,other origin
+21,Kentucky,Pendleton,other origin
+21,Kentucky,Perry,other origin
+21,Kentucky,Pike,other origin
+21,Kentucky,Powell,other origin
+21,Kentucky,Pulaski,other origin
+21,Kentucky,Robertson,other origin
+21,Kentucky,Rockcastle,other origin
+21,Kentucky,Rowan,other origin
+21,Kentucky,Russell,other origin
+21,Kentucky,Scott,other origin
+21,Kentucky,Shelby,other origin
+21,Kentucky,Simpson,other origin
+21,Kentucky,Spencer,other origin
+21,Kentucky,Taylor,other origin
+21,Kentucky,Todd,other origin
+21,Kentucky,Trigg,other origin
+21,Kentucky,Trimble,other origin
+21,Kentucky,Union,other origin
+21,Kentucky,Warren,other origin
+21,Kentucky,Washington,other origin
+21,Kentucky,Wayne,other origin
+21,Kentucky,Webster,other origin
+21,Kentucky,Whitley,other origin
+21,Kentucky,Wolfe,other origin
+21,Kentucky,Woodford,other origin
+22,Louisiana,Acadia,other origin
+22,Louisiana,Allen,other origin
+22,Louisiana,Ascension,other origin
+22,Louisiana,Assumption,other origin
+22,Louisiana,Avoyelles,Native American origin
+22,Louisiana,Beauregard,other origin
+22,Louisiana,Bienville,other origin
+22,Louisiana,Bossier,other origin
+22,Louisiana,Caddo,Native American origin
+22,Louisiana,Calcasieu,Native American origin
+22,Louisiana,Caldwell,other origin
+22,Louisiana,Cameron,other origin
+22,Louisiana,Catahoula,Native American origin
+22,Louisiana,Claiborne,other origin
+22,Louisiana,Concordia,other origin
+22,Louisiana,De Soto,other origin
+22,Louisiana,East Baton Rouge,other origin
+22,Louisiana,East Carroll,other origin
+22,Louisiana,East Feliciana,other origin
+22,Louisiana,Evangeline,other origin
+22,Louisiana,Franklin,other origin
+22,Louisiana,Grant,other origin
+22,Louisiana,Iberia,other origin
+22,Louisiana,Iberville,other origin
+22,Louisiana,Jackson,other origin
+22,Louisiana,Jefferson,other origin
+22,Louisiana,Jefferson Davis,other origin
+22,Louisiana,Lafayette,other origin
+22,Louisiana,Lafourche,other origin
+22,Louisiana,LaSalle,other origin
+22,Louisiana,Lincoln,other origin
+22,Louisiana,Livingston,other origin
+22,Louisiana,Madison,other origin
+22,Louisiana,Morehouse,other origin
+22,Louisiana,Natchitoches,Native American origin
+22,Louisiana,Orleans,other origin
+22,Louisiana,Ouachita,Native American origin
+22,Louisiana,Plaquemines,Native American origin
+22,Louisiana,Pointe Coupee,other origin
+22,Louisiana,Rapides,other origin
+22,Louisiana,Red River,other origin
+22,Louisiana,Richland,other origin
+22,Louisiana,Sabine,other origin
+22,Louisiana,St. Bernard,other origin
+22,Louisiana,St. Charles,other origin
+22,Louisiana,St. Helena,other origin
+22,Louisiana,St. James,other origin
+22,Louisiana,St. John the Baptist,other origin
+22,Louisiana,St. Landry,other origin
+22,Louisiana,St. Martin,other origin
+22,Louisiana,St. Mary,other origin
+22,Louisiana,St. Tammany,Native American origin
+22,Louisiana,Tangipahoa,Native American origin
+22,Louisiana,Tensas,Native American origin
+22,Louisiana,Terrebonne,other origin
+22,Louisiana,Union,other origin
+22,Louisiana,Vermilion,other origin
+22,Louisiana,Vernon,other origin
+22,Louisiana,Washington,other origin
+22,Louisiana,Webster,other origin
+22,Louisiana,West Baton Rouge,other origin
+22,Louisiana,West Carroll,other origin
+22,Louisiana,West Feliciana,other origin
+22,Louisiana,Winn,other origin
+23,Maine,Androscoggin,Native American origin
+23,Maine,Aroostook,Native American origin
+23,Maine,Cumberland,other origin
+23,Maine,Franklin,other origin
+23,Maine,Hancock,other origin
+23,Maine,Kennebec,Native American origin
+23,Maine,Knox,other origin
+23,Maine,Lincoln,other origin
+23,Maine,Oxford,other origin
+23,Maine,Penobscot,Native American origin
+23,Maine,Piscataquis,Native American origin
+23,Maine,Sagadahoc,Native American origin
+23,Maine,Somerset,other origin
+23,Maine,Waldo,other origin
+23,Maine,Washington,other origin
+23,Maine,York,other origin
+24,Maryland,Allegany,Native American origin
+24,Maryland,Anne Arundel,other origin
+24,Maryland,Baltimore,other origin
+24,Maryland,Baltimore,other origin
+24,Maryland,Calvert,other origin
+24,Maryland,Caroline,other origin
+24,Maryland,Carroll,other origin
+24,Maryland,Cecil,other origin
+24,Maryland,Charles,other origin
+24,Maryland,Dorchester,other origin
+24,Maryland,Frederick,other origin
+24,Maryland,Garrett,other origin
+24,Maryland,Harford,other origin
+24,Maryland,Howard,other origin
+24,Maryland,Kent,other origin
+24,Maryland,Montgomery,other origin
+24,Maryland,Prince George's,other origin
+24,Maryland,Queen Anne's,other origin
+24,Maryland,Somerset,other origin
+24,Maryland,St. Mary's,other origin
+24,Maryland,Talbot,other origin
+24,Maryland,Washington,other origin
+24,Maryland,Wicomico,Native American origin
+24,Maryland,Worcester,other origin
+25,Massachusetts,Barnstable,other origin
+25,Massachusetts,Berkshire,other origin
+25,Massachusetts,Bristol,other origin
+25,Massachusetts,Dukes,other origin
+25,Massachusetts,Essex,other origin
+25,Massachusetts,Franklin,other origin
+25,Massachusetts,Hampden,other origin
+25,Massachusetts,Hampshire,other origin
+25,Massachusetts,Middlesex,other origin
+25,Massachusetts,Nantucket,Native American origin
+25,Massachusetts,Norfolk,other origin
+25,Massachusetts,Plymouth,other origin
+25,Massachusetts,Suffolk,other origin
+25,Massachusetts,Worcester,other origin
+26,Michigan,Alcona,Native American origin
+26,Michigan,Alger,other origin
+26,Michigan,Allegan,Native American origin
+26,Michigan,Alpena,Native American origin
+26,Michigan,Antrim,other origin
+26,Michigan,Arenac,Native American origin
+26,Michigan,Baraga,other origin
+26,Michigan,Barry,other origin
+26,Michigan,Bay,other origin
+26,Michigan,Benzie,other origin
+26,Michigan,Berrien,other origin
+26,Michigan,Branch,other origin
+26,Michigan,Calhoun,other origin
+26,Michigan,Cass,other origin
+26,Michigan,Charlevoix,other origin
+26,Michigan,Cheboygan,Native American origin
+26,Michigan,Chippewa,Native American origin
+26,Michigan,Clare,other origin
+26,Michigan,Clinton,other origin
+26,Michigan,Crawford,other origin
+26,Michigan,Delta,other origin
+26,Michigan,Dickinson,other origin
+26,Michigan,Eaton,other origin
+26,Michigan,Emmet,other origin
+26,Michigan,Genesee,Native American origin
+26,Michigan,Gladwin,other origin
+26,Michigan,Gogebic,Native American origin
+26,Michigan,Grand Traverse,other origin
+26,Michigan,Gratiot,other origin
+26,Michigan,Hillsdale,other origin
+26,Michigan,Houghton,other origin
+26,Michigan,Huron,Native American origin
+26,Michigan,Ingham,other origin
+26,Michigan,Ionia,other origin
+26,Michigan,Iosco,Native American origin
+26,Michigan,Iron,other origin
+26,Michigan,Isabella,other origin
+26,Michigan,Jackson,other origin
+26,Michigan,Kalamazoo,Native American origin
+26,Michigan,Kalkaska,other origin
+26,Michigan,Kent,other origin
+26,Michigan,Keweenaw,Native American origin
+26,Michigan,Lake,other origin
+26,Michigan,Lapeer,other origin
+26,Michigan,Leelanau,Native American origin
+26,Michigan,Lenawee,Native American origin
+26,Michigan,Livingston,other origin
+26,Michigan,Luce,other origin
+26,Michigan,Mackinac,Native American origin
+26,Michigan,Macomb,other origin
+26,Michigan,Manistee,Native American origin
+26,Michigan,Marquette,other origin
+26,Michigan,Mason,other origin
+26,Michigan,Mecosta,Native American origin
+26,Michigan,Menominee,Native American origin
+26,Michigan,Midland,other origin
+26,Michigan,Missaukee,Native American origin
+26,Michigan,Monroe,other origin
+26,Michigan,Montcalm,other origin
+26,Michigan,Montmorency,other origin
+26,Michigan,Muskegon,Native American origin
+26,Michigan,Newaygo,Native American origin
+26,Michigan,Oakland,other origin
+26,Michigan,Oceana,other origin
+26,Michigan,Ogemaw,Native American origin
+26,Michigan,Ontonagon,Native American origin
+26,Michigan,Osceola,Native American origin
+26,Michigan,Oscoda,Native American origin
+26,Michigan,Otsego,Native American origin
+26,Michigan,Ottawa,Native American origin
+26,Michigan,Presque Isle,other origin
+26,Michigan,Roscommon,other origin
+26,Michigan,Saginaw,Native American origin
+26,Michigan,Sanilac,Native American origin
+26,Michigan,Schoolcraft,other origin
+26,Michigan,Shiawassee,Native American origin
+26,Michigan,St. Clair,other origin
+26,Michigan,St. Joseph,other origin
+26,Michigan,Tuscola,Native American origin
+26,Michigan,Van Buren,other origin
+26,Michigan,Washtenaw,Native American origin
+26,Michigan,Wayne,other origin
+26,Michigan,Wexford,other origin
+27,Minnesota,Aitkin,other origin
+27,Minnesota,Anoka,Native American origin
+27,Minnesota,Becker,other origin
+27,Minnesota,Beltrami,other origin
+27,Minnesota,Benton,other origin
+27,Minnesota,Big Stone,other origin
+27,Minnesota,Blue Earth,other origin
+27,Minnesota,Brown,other origin
+27,Minnesota,Carlton,other origin
+27,Minnesota,Carver,other origin
+27,Minnesota,Cass,other origin
+27,Minnesota,Chippewa,Native American origin
+27,Minnesota,Chisago,Native American origin
+27,Minnesota,Clay,other origin
+27,Minnesota,Clearwater,other origin
+27,Minnesota,Cook,other origin
+27,Minnesota,Cottonwood,other origin
+27,Minnesota,Crow Wing,other origin
+27,Minnesota,Dakota,Native American origin
+27,Minnesota,Dodge,other origin
+27,Minnesota,Douglas,other origin
+27,Minnesota,Faribault,other origin
+27,Minnesota,Fillmore,other origin
+27,Minnesota,Freeborn,other origin
+27,Minnesota,Goodhue,other origin
+27,Minnesota,Grant,other origin
+27,Minnesota,Hennepin,other origin
+27,Minnesota,Houston,other origin
+27,Minnesota,Hubbard,other origin
+27,Minnesota,Isanti,Native American origin
+27,Minnesota,Itasca,other origin
+27,Minnesota,Jackson,other origin
+27,Minnesota,Kanabec,Native American origin
+27,Minnesota,Kandiyohi,Native American origin
+27,Minnesota,Kittson,other origin
+27,Minnesota,Koochiching,Native American origin
+27,Minnesota,Lac qui Parle,other origin
+27,Minnesota,Lake,other origin
+27,Minnesota,Lake of the Woods,other origin
+27,Minnesota,Le Sueur,other origin
+27,Minnesota,Lincoln,other origin
+27,Minnesota,Lyon,other origin
+27,Minnesota,Mahnomen,Native American origin
+27,Minnesota,Marshall,other origin
+27,Minnesota,Martin,other origin
+27,Minnesota,McLeod,other origin
+27,Minnesota,Meeker,other origin
+27,Minnesota,Mille Lacs,other origin
+27,Minnesota,Morrison,other origin
+27,Minnesota,Mower,other origin
+27,Minnesota,Murray,other origin
+27,Minnesota,Nicollet,other origin
+27,Minnesota,Nobles,other origin
+27,Minnesota,Norman,other origin
+27,Minnesota,Olmsted,other origin
+27,Minnesota,Otter Tail,other origin
+27,Minnesota,Pennington,other origin
+27,Minnesota,Pine,other origin
+27,Minnesota,Pipestone,other origin
+27,Minnesota,Polk,other origin
+27,Minnesota,Pope,other origin
+27,Minnesota,Ramsey,other origin
+27,Minnesota,Red Lake,other origin
+27,Minnesota,Redwood,other origin
+27,Minnesota,Renville,other origin
+27,Minnesota,Rice,other origin
+27,Minnesota,Rock,other origin
+27,Minnesota,Roseau,other origin
+27,Minnesota,Scott,other origin
+27,Minnesota,Sherburne,other origin
+27,Minnesota,Sibley,other origin
+27,Minnesota,St. Louis,other origin
+27,Minnesota,Stearns,other origin
+27,Minnesota,Steele,other origin
+27,Minnesota,Stevens,other origin
+27,Minnesota,Swift,other origin
+27,Minnesota,Todd,other origin
+27,Minnesota,Traverse,other origin
+27,Minnesota,Wabasha,Native American origin
+27,Minnesota,Wadena,Native American origin
+27,Minnesota,Waseca,Native American origin
+27,Minnesota,Washington,other origin
+27,Minnesota,Watonwan,Native American origin
+27,Minnesota,Wilkin,other origin
+27,Minnesota,Winona,Native American origin
+27,Minnesota,Wright,other origin
+27,Minnesota,Yellow Medicine,other origin
+28,Mississippi,Adams,other origin
+28,Mississippi,Alcorn,other origin
+28,Mississippi,Amite,Native American origin
+28,Mississippi,Attala,Native American origin
+28,Mississippi,Benton,other origin
+28,Mississippi,Bolivar,other origin
+28,Mississippi,Calhoun,other origin
+28,Mississippi,Carroll,other origin
+28,Mississippi,Chickasaw,Native American origin
+28,Mississippi,Choctaw,Native American origin
+28,Mississippi,Claiborne,other origin
+28,Mississippi,Clarke,other origin
+28,Mississippi,Clay,other origin
+28,Mississippi,Coahoma,Native American origin
+28,Mississippi,Copiah,Native American origin
+28,Mississippi,Covington,other origin
+28,Mississippi,DeSoto,other origin
+28,Mississippi,Forrest,other origin
+28,Mississippi,Franklin,other origin
+28,Mississippi,George,other origin
+28,Mississippi,Greene,other origin
+28,Mississippi,Grenada,other origin
+28,Mississippi,Hancock,other origin
+28,Mississippi,Harrison,other origin
+28,Mississippi,Hinds,other origin
+28,Mississippi,Holmes,other origin
+28,Mississippi,Humphreys,other origin
+28,Mississippi,Issaquena,Native American origin
+28,Mississippi,Itawamba,Native American origin
+28,Mississippi,Jackson,other origin
+28,Mississippi,Jasper,other origin
+28,Mississippi,Jefferson,other origin
+28,Mississippi,Jefferson Davis,other origin
+28,Mississippi,Jones,other origin
+28,Mississippi,Kemper,other origin
+28,Mississippi,Lafayette,other origin
+28,Mississippi,Lamar,other origin
+28,Mississippi,Lauderdale,other origin
+28,Mississippi,Lawrence,other origin
+28,Mississippi,Leake,other origin
+28,Mississippi,Lee,other origin
+28,Mississippi,Leflore,other origin
+28,Mississippi,Lincoln,other origin
+28,Mississippi,Lowndes,other origin
+28,Mississippi,Madison,other origin
+28,Mississippi,Marion,other origin
+28,Mississippi,Marshall,other origin
+28,Mississippi,Monroe,other origin
+28,Mississippi,Montgomery,other origin
+28,Mississippi,Neshoba,Native American origin
+28,Mississippi,Newton,other origin
+28,Mississippi,Noxubee,Native American origin
+28,Mississippi,Oktibbeha,Native American origin
+28,Mississippi,Panola,Native American origin
+28,Mississippi,Pearl River,other origin
+28,Mississippi,Perry,other origin
+28,Mississippi,Pike,other origin
+28,Mississippi,Pontotoc,Native American origin
+28,Mississippi,Prentiss,other origin
+28,Mississippi,Quitman,other origin
+28,Mississippi,Rankin,other origin
+28,Mississippi,Scott,other origin
+28,Mississippi,Sharkey,other origin
+28,Mississippi,Simpson,other origin
+28,Mississippi,Smith,other origin
+28,Mississippi,Stone,other origin
+28,Mississippi,Sunflower,other origin
+28,Mississippi,Tallahatchie,Native American origin
+28,Mississippi,Tate,other origin
+28,Mississippi,Tippah,Native American origin
+28,Mississippi,Tishomingo,Native American origin
+28,Mississippi,Tunica,Native American origin
+28,Mississippi,Union,other origin
+28,Mississippi,Walthall,other origin
+28,Mississippi,Warren,other origin
+28,Mississippi,Washington,other origin
+28,Mississippi,Wayne,other origin
+28,Mississippi,Webster,other origin
+28,Mississippi,Wilkinson,other origin
+28,Mississippi,Winston,other origin
+28,Mississippi,Yalobusha,Native American origin
+28,Mississippi,Yazoo,Native American origin
+29,Missouri,Adair,other origin
+29,Missouri,Andrew,other origin
+29,Missouri,Atchison,other origin
+29,Missouri,Audrain,other origin
+29,Missouri,Barry,other origin
+29,Missouri,Barton,other origin
+29,Missouri,Bates,other origin
+29,Missouri,Benton,other origin
+29,Missouri,Bollinger,other origin
+29,Missouri,Boone,other origin
+29,Missouri,Buchanan,other origin
+29,Missouri,Butler,other origin
+29,Missouri,Caldwell,other origin
+29,Missouri,Callaway,other origin
+29,Missouri,Camden,other origin
+29,Missouri,Cape Girardeau,other origin
+29,Missouri,Carroll,other origin
+29,Missouri,Carter,other origin
+29,Missouri,Cass,other origin
+29,Missouri,Cedar,other origin
+29,Missouri,Chariton,other origin
+29,Missouri,Christian,other origin
+29,Missouri,Clark,other origin
+29,Missouri,Clay,other origin
+29,Missouri,Clinton,other origin
+29,Missouri,Cole,other origin
+29,Missouri,Cooper,other origin
+29,Missouri,Crawford,other origin
+29,Missouri,Dade,other origin
+29,Missouri,Dallas,other origin
+29,Missouri,Daviess,other origin
+29,Missouri,DeKalb,other origin
+29,Missouri,Dent,other origin
+29,Missouri,Douglas,other origin
+29,Missouri,Dunklin,other origin
+29,Missouri,Franklin,other origin
+29,Missouri,Gasconade,other origin
+29,Missouri,Gentry,other origin
+29,Missouri,Greene,other origin
+29,Missouri,Grundy,other origin
+29,Missouri,Harrison,other origin
+29,Missouri,Henry,other origin
+29,Missouri,Hickory,other origin
+29,Missouri,Holt,other origin
+29,Missouri,Howard,other origin
+29,Missouri,Howell,other origin
+29,Missouri,Iron,other origin
+29,Missouri,Jackson,other origin
+29,Missouri,Jasper,other origin
+29,Missouri,Jefferson,other origin
+29,Missouri,Johnson,other origin
+29,Missouri,Knox,other origin
+29,Missouri,Laclede,other origin
+29,Missouri,Lafayette,other origin
+29,Missouri,Lawrence,other origin
+29,Missouri,Lewis,other origin
+29,Missouri,Lincoln,other origin
+29,Missouri,Linn,other origin
+29,Missouri,Livingston,other origin
+29,Missouri,Macon,other origin
+29,Missouri,Madison,other origin
+29,Missouri,Maries,other origin
+29,Missouri,Marion,other origin
+29,Missouri,McDonald,other origin
+29,Missouri,Mercer,other origin
+29,Missouri,Miller,other origin
+29,Missouri,Mississippi,Native American origin
+29,Missouri,Moniteau,Native American origin
+29,Missouri,Monroe,other origin
+29,Missouri,Montgomery,other origin
+29,Missouri,Morgan,other origin
+29,Missouri,New Madrid,other origin
+29,Missouri,Newton,other origin
+29,Missouri,Nodaway,Native American origin
+29,Missouri,Oregon,other origin
+29,Missouri,Osage,Native American origin
+29,Missouri,Ozark,other origin
+29,Missouri,Pemiscot,Native American origin
+29,Missouri,Perry,other origin
+29,Missouri,Pettis,other origin
+29,Missouri,Phelps,other origin
+29,Missouri,Pike,other origin
+29,Missouri,Platte,other origin
+29,Missouri,Polk,other origin
+29,Missouri,Pulaski,other origin
+29,Missouri,Putnam,other origin
+29,Missouri,Ralls,other origin
+29,Missouri,Randolph,other origin
+29,Missouri,Ray,other origin
+29,Missouri,Reynolds,other origin
+29,Missouri,Ripley,other origin
+29,Missouri,Saline,other origin
+29,Missouri,Schuyler,other origin
+29,Missouri,Scotland,other origin
+29,Missouri,Scott,other origin
+29,Missouri,Shannon,other origin
+29,Missouri,Shelby,other origin
+29,Missouri,St. Charles,other origin
+29,Missouri,St. Clair,other origin
+29,Missouri,St. Francois,other origin
+29,Missouri,St. Louis,other origin
+29,Missouri,St. Louis,other origin
+29,Missouri,Ste. Genevieve,other origin
+29,Missouri,Stoddard,other origin
+29,Missouri,Stone,other origin
+29,Missouri,Sullivan,other origin
+29,Missouri,Taney,other origin
+29,Missouri,Texas,Native American origin
+29,Missouri,Vernon,other origin
+29,Missouri,Warren,other origin
+29,Missouri,Washington,other origin
+29,Missouri,Wayne,other origin
+29,Missouri,Webster,other origin
+29,Missouri,Worth,other origin
+29,Missouri,Wright,other origin
+30,Montana,Beaverhead,other origin
+30,Montana,Big Horn,other origin
+30,Montana,Blaine,other origin
+30,Montana,Broadwater,other origin
+30,Montana,Carbon,other origin
+30,Montana,Carter,other origin
+30,Montana,Cascade,other origin
+30,Montana,Chouteau,other origin
+30,Montana,Custer,other origin
+30,Montana,Daniels,other origin
+30,Montana,Dawson,other origin
+30,Montana,Deer Lodge,other origin
+30,Montana,Fallon,other origin
+30,Montana,Fergus,other origin
+30,Montana,Flathead,other origin
+30,Montana,Gallatin,other origin
+30,Montana,Garfield,other origin
+30,Montana,Glacier,other origin
+30,Montana,Golden Valley,other origin
+30,Montana,Granite,other origin
+30,Montana,Hill,other origin
+30,Montana,Jefferson,other origin
+30,Montana,Judith Basin,other origin
+30,Montana,Lake,other origin
+30,Montana,Lewis and Clark,other origin
+30,Montana,Liberty,other origin
+30,Montana,Lincoln,other origin
+30,Montana,Madison,other origin
+30,Montana,McCone,other origin
+30,Montana,Meagher,other origin
+30,Montana,Mineral,other origin
+30,Montana,Missoula,Native American origin
+30,Montana,Musselshell,other origin
+30,Montana,Park,other origin
+30,Montana,Petroleum,other origin
+30,Montana,Phillips,other origin
+30,Montana,Pondera,other origin
+30,Montana,Powder River,other origin
+30,Montana,Powell,other origin
+30,Montana,Prairie,other origin
+30,Montana,Ravalli,other origin
+30,Montana,Richland,other origin
+30,Montana,Roosevelt,other origin
+30,Montana,Rosebud,other origin
+30,Montana,Sanders,other origin
+30,Montana,Sheridan,other origin
+30,Montana,Silver Bow,other origin
+30,Montana,Stillwater,other origin
+30,Montana,Sweet Grass,other origin
+30,Montana,Teton,other origin
+30,Montana,Toole,other origin
+30,Montana,Treasure,other origin
+30,Montana,Valley,other origin
+30,Montana,Wheatland,other origin
+30,Montana,Wibaux,other origin
+30,Montana,Yellowstone,other origin
+31,Nebraska,Adams,other origin
+31,Nebraska,Antelope,other origin
+31,Nebraska,Arthur,other origin
+31,Nebraska,Banner,other origin
+31,Nebraska,Blaine,other origin
+31,Nebraska,Boone,other origin
+31,Nebraska,Box Butte,other origin
+31,Nebraska,Boyd,other origin
+31,Nebraska,Brown,other origin
+31,Nebraska,Buffalo,other origin
+31,Nebraska,Burt,other origin
+31,Nebraska,Butler,other origin
+31,Nebraska,Cass,other origin
+31,Nebraska,Cedar,other origin
+31,Nebraska,Chase,other origin
+31,Nebraska,Cherry,other origin
+31,Nebraska,Cheyenne,Native American origin
+31,Nebraska,Clay,other origin
+31,Nebraska,Colfax,other origin
+31,Nebraska,Cuming,other origin
+31,Nebraska,Custer,other origin
+31,Nebraska,Dakota,Native American origin
+31,Nebraska,Dawes,other origin
+31,Nebraska,Dawson,other origin
+31,Nebraska,Deuel,other origin
+31,Nebraska,Dixon,other origin
+31,Nebraska,Dodge,other origin
+31,Nebraska,Douglas,other origin
+31,Nebraska,Dundy,other origin
+31,Nebraska,Fillmore,other origin
+31,Nebraska,Franklin,other origin
+31,Nebraska,Frontier,other origin
+31,Nebraska,Furnas,other origin
+31,Nebraska,Gage,other origin
+31,Nebraska,Garden,other origin
+31,Nebraska,Garfield,other origin
+31,Nebraska,Gosper,other origin
+31,Nebraska,Grant,other origin
+31,Nebraska,Greeley,other origin
+31,Nebraska,Hall,other origin
+31,Nebraska,Hamilton,other origin
+31,Nebraska,Harlan,other origin
+31,Nebraska,Hayes,other origin
+31,Nebraska,Hitchcock,other origin
+31,Nebraska,Holt,other origin
+31,Nebraska,Hooker,other origin
+31,Nebraska,Howard,other origin
+31,Nebraska,Jefferson,other origin
+31,Nebraska,Johnson,other origin
+31,Nebraska,Kearney,other origin
+31,Nebraska,Keith,other origin
+31,Nebraska,Keya Paha,Native American origin
+31,Nebraska,Kimball,other origin
+31,Nebraska,Knox,other origin
+31,Nebraska,Lancaster,other origin
+31,Nebraska,Lincoln,other origin
+31,Nebraska,Logan,other origin
+31,Nebraska,Loup,other origin
+31,Nebraska,Madison,other origin
+31,Nebraska,McPherson,other origin
+31,Nebraska,Merrick,other origin
+31,Nebraska,Morrill,other origin
+31,Nebraska,Nance,other origin
+31,Nebraska,Nemaha,Native American origin
+31,Nebraska,Nuckolls,other origin
+31,Nebraska,Otoe,Native American origin
+31,Nebraska,Pawnee,Native American origin
+31,Nebraska,Perkins,other origin
+31,Nebraska,Phelps,other origin
+31,Nebraska,Pierce,other origin
+31,Nebraska,Platte,other origin
+31,Nebraska,Polk,other origin
+31,Nebraska,Red Willow,other origin
+31,Nebraska,Richardson,other origin
+31,Nebraska,Rock,other origin
+31,Nebraska,Saline,other origin
+31,Nebraska,Sarpy,other origin
+31,Nebraska,Saunders,other origin
+31,Nebraska,Scotts Bluff,other origin
+31,Nebraska,Seward,other origin
+31,Nebraska,Sheridan,other origin
+31,Nebraska,Sherman,other origin
+31,Nebraska,Sioux,Native American origin
+31,Nebraska,Stanton,other origin
+31,Nebraska,Thayer,other origin
+31,Nebraska,Thomas,other origin
+31,Nebraska,Thurston,other origin
+31,Nebraska,Valley,other origin
+31,Nebraska,Washington,other origin
+31,Nebraska,Wayne,other origin
+31,Nebraska,Webster,other origin
+31,Nebraska,Wheeler,other origin
+31,Nebraska,York,other origin
+32,Nevada,Carson City,other origin
+32,Nevada,Churchill,other origin
+32,Nevada,Clark,other origin
+32,Nevada,Douglas,other origin
+32,Nevada,Elko,Native American origin
+32,Nevada,Esmeralda,other origin
+32,Nevada,Eureka,other origin
+32,Nevada,Humboldt,other origin
+32,Nevada,Lander,other origin
+32,Nevada,Lincoln,other origin
+32,Nevada,Lyon,other origin
+32,Nevada,Mineral,other origin
+32,Nevada,Nye,other origin
+32,Nevada,Pershing,other origin
+32,Nevada,Storey,other origin
+32,Nevada,Washoe,Native American origin
+32,Nevada,White Pine,other origin
+33,New Hampshire,Belknap,other origin
+33,New Hampshire,Carroll,other origin
+33,New Hampshire,Cheshire,other origin
+33,New Hampshire,Coos,Native American origin
+33,New Hampshire,Grafton,other origin
+33,New Hampshire,Hillsborough,other origin
+33,New Hampshire,Merrimack,Native American origin
+33,New Hampshire,Rockingham,other origin
+33,New Hampshire,Strafford,other origin
+33,New Hampshire,Sullivan,other origin
+34,New Jersey,Atlantic,other origin
+34,New Jersey,Bergen,other origin
+34,New Jersey,Burlington,other origin
+34,New Jersey,Camden,other origin
+34,New Jersey,Cape May,other origin
+34,New Jersey,Cumberland,other origin
+34,New Jersey,Essex,other origin
+34,New Jersey,Gloucester,other origin
+34,New Jersey,Hudson,other origin
+34,New Jersey,Hunterdon,other origin
+34,New Jersey,Mercer,other origin
+34,New Jersey,Middlesex,other origin
+34,New Jersey,Monmouth,other origin
+34,New Jersey,Morris,other origin
+34,New Jersey,Ocean,other origin
+34,New Jersey,Passaic,Native American origin
+34,New Jersey,Salem,other origin
+34,New Jersey,Somerset,other origin
+34,New Jersey,Sussex,other origin
+34,New Jersey,Union,other origin
+34,New Jersey,Warren,other origin
+35,New Mexico,Bernalillo,other origin
+35,New Mexico,Catron,other origin
+35,New Mexico,Chaves,other origin
+35,New Mexico,Cibola,other origin
+35,New Mexico,Colfax,other origin
+35,New Mexico,Curry,other origin
+35,New Mexico,De Baca,other origin
+35,New Mexico,Doña Ana,other origin
+35,New Mexico,Eddy,other origin
+35,New Mexico,Grant,other origin
+35,New Mexico,Guadalupe,other origin
+35,New Mexico,Harding,other origin
+35,New Mexico,Hidalgo,other origin
+35,New Mexico,Lea,other origin
+35,New Mexico,Lincoln,other origin
+35,New Mexico,Los Alamos,other origin
+35,New Mexico,Luna,other origin
+35,New Mexico,McKinley,other origin
+35,New Mexico,Mora,other origin
+35,New Mexico,Otero,other origin
+35,New Mexico,Quay,other origin
+35,New Mexico,Rio Arriba,other origin
+35,New Mexico,Roosevelt,other origin
+35,New Mexico,San Juan,other origin
+35,New Mexico,San Miguel,other origin
+35,New Mexico,Sandoval,other origin
+35,New Mexico,Santa Fe,other origin
+35,New Mexico,Sierra,other origin
+35,New Mexico,Socorro,other origin
+35,New Mexico,Taos,Native American origin
+35,New Mexico,Torrance,other origin
+35,New Mexico,Union,other origin
+35,New Mexico,Valencia,other origin
+36,New York,Albany,other origin
+36,New York,Allegany,Native American origin
+36,New York,Bronx,other origin
+36,New York,Broome,other origin
+36,New York,Cattaraugus,Native American origin
+36,New York,Cayuga,Native American origin
+36,New York,Chautauqua,Native American origin
+36,New York,Chemung,Native American origin
+36,New York,Chenango,Native American origin
+36,New York,Clinton,other origin
+36,New York,Columbia,other origin
+36,New York,Cortland,other origin
+36,New York,Delaware,other origin
+36,New York,Dutchess,other origin
+36,New York,Erie,Native American origin
+36,New York,Essex,other origin
+36,New York,Franklin,other origin
+36,New York,Fulton,other origin
+36,New York,Genesee,Native American origin
+36,New York,Greene,other origin
+36,New York,Hamilton,other origin
+36,New York,Herkimer,other origin
+36,New York,Jefferson,other origin
+36,New York,Kings,other origin
+36,New York,Lewis,other origin
+36,New York,Livingston,other origin
+36,New York,Madison,other origin
+36,New York,Monroe,other origin
+36,New York,Montgomery,other origin
+36,New York,Nassau,other origin
+36,New York,New York,other origin
+36,New York,Niagara,Native American origin
+36,New York,Oneida,Native American origin
+36,New York,Onondaga,Native American origin
+36,New York,Ontario,Native American origin
+36,New York,Orange,other origin
+36,New York,Orleans,other origin
+36,New York,Oswego,Native American origin
+36,New York,Otsego,Native American origin
+36,New York,Putnam,other origin
+36,New York,Queens,other origin
+36,New York,Rensselaer,other origin
+36,New York,Richmond,other origin
+36,New York,Rockland,other origin
+36,New York,Saratoga,Native American origin
+36,New York,Schenectady,Native American origin
+36,New York,Schoharie,Native American origin
+36,New York,Schuyler,other origin
+36,New York,Seneca,Native American origin
+36,New York,St. Lawrence,other origin
+36,New York,Steuben,other origin
+36,New York,Suffolk,other origin
+36,New York,Sullivan,other origin
+36,New York,Tioga,Native American origin
+36,New York,Tompkins,other origin
+36,New York,Ulster,other origin
+36,New York,Warren,other origin
+36,New York,Washington,other origin
+36,New York,Wayne,other origin
+36,New York,Westchester,other origin
+36,New York,Wyoming,Native American origin
+36,New York,Yates,other origin
+37,North Carolina,Alamance,Native American origin
+37,North Carolina,Alexander,other origin
+37,North Carolina,Alleghany,Native American origin
+37,North Carolina,Anson,other origin
+37,North Carolina,Ashe,other origin
+37,North Carolina,Avery,other origin
+37,North Carolina,Beaufort,other origin
+37,North Carolina,Bertie,other origin
+37,North Carolina,Bladen,other origin
+37,North Carolina,Brunswick,other origin
+37,North Carolina,Buncombe,other origin
+37,North Carolina,Burke,other origin
+37,North Carolina,Cabarrus,other origin
+37,North Carolina,Caldwell,other origin
+37,North Carolina,Camden,other origin
+37,North Carolina,Carteret,other origin
+37,North Carolina,Caswell,other origin
+37,North Carolina,Catawba,Native American origin
+37,North Carolina,Chatham,other origin
+37,North Carolina,Cherokee,Native American origin
+37,North Carolina,Chowan,Native American origin
+37,North Carolina,Clay,other origin
+37,North Carolina,Cleveland,other origin
+37,North Carolina,Columbus,other origin
+37,North Carolina,Craven,other origin
+37,North Carolina,Cumberland,other origin
+37,North Carolina,Currituck,Native American origin
+37,North Carolina,Dare,other origin
+37,North Carolina,Davidson,other origin
+37,North Carolina,Davie,other origin
+37,North Carolina,Duplin,other origin
+37,North Carolina,Durham,other origin
+37,North Carolina,Edgecombe,other origin
+37,North Carolina,Forsyth,other origin
+37,North Carolina,Franklin,other origin
+37,North Carolina,Gaston,other origin
+37,North Carolina,Gates,other origin
+37,North Carolina,Graham,other origin
+37,North Carolina,Granville,other origin
+37,North Carolina,Greene,other origin
+37,North Carolina,Guilford,other origin
+37,North Carolina,Halifax,other origin
+37,North Carolina,Harnett,other origin
+37,North Carolina,Haywood,other origin
+37,North Carolina,Henderson,other origin
+37,North Carolina,Hertford,other origin
+37,North Carolina,Hoke,other origin
+37,North Carolina,Hyde,other origin
+37,North Carolina,Iredell,other origin
+37,North Carolina,Jackson,other origin
+37,North Carolina,Johnston,other origin
+37,North Carolina,Jones,other origin
+37,North Carolina,Lee,other origin
+37,North Carolina,Lenoir,other origin
+37,North Carolina,Lincoln,other origin
+37,North Carolina,Macon,other origin
+37,North Carolina,Madison,other origin
+37,North Carolina,Martin,other origin
+37,North Carolina,McDowell,other origin
+37,North Carolina,Mecklenburg,other origin
+37,North Carolina,Mitchell,other origin
+37,North Carolina,Montgomery,other origin
+37,North Carolina,Moore,other origin
+37,North Carolina,Nash,other origin
+37,North Carolina,New Hanover,other origin
+37,North Carolina,Northampton,other origin
+37,North Carolina,Onslow,other origin
+37,North Carolina,Orange,other origin
+37,North Carolina,Pamlico,Native American origin
+37,North Carolina,Pasquotank,Native American origin
+37,North Carolina,Pender,other origin
+37,North Carolina,Perquimans,Native American origin
+37,North Carolina,Person,other origin
+37,North Carolina,Pitt,other origin
+37,North Carolina,Polk,other origin
+37,North Carolina,Randolph,other origin
+37,North Carolina,Richmond,other origin
+37,North Carolina,Robeson,other origin
+37,North Carolina,Rockingham,other origin
+37,North Carolina,Rowan,other origin
+37,North Carolina,Rutherford,other origin
+37,North Carolina,Sampson,other origin
+37,North Carolina,Scotland,other origin
+37,North Carolina,Stanly,other origin
+37,North Carolina,Stokes,other origin
+37,North Carolina,Surry,other origin
+37,North Carolina,Swain,other origin
+37,North Carolina,Transylvania,other origin
+37,North Carolina,Tyrrell,other origin
+37,North Carolina,Union,other origin
+37,North Carolina,Vance,other origin
+37,North Carolina,Wake,other origin
+37,North Carolina,Warren,other origin
+37,North Carolina,Washington,other origin
+37,North Carolina,Watauga,Native American origin
+37,North Carolina,Wayne,other origin
+37,North Carolina,Wilkes,other origin
+37,North Carolina,Wilson,other origin
+37,North Carolina,Yadkin,Native American origin
+37,North Carolina,Yancey,other origin
+38,North Dakota,Adams,other origin
+38,North Dakota,Barnes,other origin
+38,North Dakota,Benson,other origin
+38,North Dakota,Billings,other origin
+38,North Dakota,Bottineau,other origin
+38,North Dakota,Bowman,other origin
+38,North Dakota,Burke,other origin
+38,North Dakota,Burleigh,other origin
+38,North Dakota,Cass,other origin
+38,North Dakota,Cavalier,other origin
+38,North Dakota,Dickey,other origin
+38,North Dakota,Divide,other origin
+38,North Dakota,Dunn,other origin
+38,North Dakota,Eddy,other origin
+38,North Dakota,Emmons,other origin
+38,North Dakota,Foster,other origin
+38,North Dakota,Golden Valley,other origin
+38,North Dakota,Grand Forks,other origin
+38,North Dakota,Grant,other origin
+38,North Dakota,Griggs,other origin
+38,North Dakota,Hettinger,other origin
+38,North Dakota,Kidder,other origin
+38,North Dakota,LaMoure,other origin
+38,North Dakota,Logan,other origin
+38,North Dakota,McHenry,other origin
+38,North Dakota,McIntosh,other origin
+38,North Dakota,McKenzie,other origin
+38,North Dakota,McLean,other origin
+38,North Dakota,Mercer,other origin
+38,North Dakota,Morton,other origin
+38,North Dakota,Mountrail,other origin
+38,North Dakota,Nelson,other origin
+38,North Dakota,Oliver,other origin
+38,North Dakota,Pembina,Native American origin
+38,North Dakota,Pierce,other origin
+38,North Dakota,Ramsey,other origin
+38,North Dakota,Ransom,other origin
+38,North Dakota,Renville,other origin
+38,North Dakota,Richland,other origin
+38,North Dakota,Rolette,other origin
+38,North Dakota,Sargent,other origin
+38,North Dakota,Sheridan,other origin
+38,North Dakota,Sioux,Native American origin
+38,North Dakota,Slope,other origin
+38,North Dakota,Stark,other origin
+38,North Dakota,Steele,other origin
+38,North Dakota,Stutsman,other origin
+38,North Dakota,Towner,other origin
+38,North Dakota,Traill,other origin
+38,North Dakota,Walsh,other origin
+38,North Dakota,Ward,other origin
+38,North Dakota,Wells,other origin
+38,North Dakota,Williams,other origin
+39,Ohio,Adams,other origin
+39,Ohio,Allen,other origin
+39,Ohio,Ashland,other origin
+39,Ohio,Ashtabula,Native American origin
+39,Ohio,Athens,other origin
+39,Ohio,Auglaize,other origin
+39,Ohio,Belmont,other origin
+39,Ohio,Brown,other origin
+39,Ohio,Butler,other origin
+39,Ohio,Carroll,other origin
+39,Ohio,Champaign,other origin
+39,Ohio,Clark,other origin
+39,Ohio,Clermont,other origin
+39,Ohio,Clinton,other origin
+39,Ohio,Columbiana,other origin
+39,Ohio,Coshocton,Native American origin
+39,Ohio,Crawford,other origin
+39,Ohio,Cuyahoga,Native American origin
+39,Ohio,Darke,other origin
+39,Ohio,Defiance,other origin
+39,Ohio,Delaware,other origin
+39,Ohio,Erie,Native American origin
+39,Ohio,Fairfield,other origin
+39,Ohio,Fayette,other origin
+39,Ohio,Franklin,other origin
+39,Ohio,Fulton,other origin
+39,Ohio,Gallia,other origin
+39,Ohio,Geauga,Native American origin
+39,Ohio,Greene,other origin
+39,Ohio,Guernsey,other origin
+39,Ohio,Hamilton,other origin
+39,Ohio,Hancock,other origin
+39,Ohio,Hardin,other origin
+39,Ohio,Harrison,other origin
+39,Ohio,Henry,other origin
+39,Ohio,Highland,other origin
+39,Ohio,Hocking,Native American origin
+39,Ohio,Holmes,other origin
+39,Ohio,Huron,other origin
+39,Ohio,Jackson,other origin
+39,Ohio,Jefferson,other origin
+39,Ohio,Knox,other origin
+39,Ohio,Lake,other origin
+39,Ohio,Lawrence,other origin
+39,Ohio,Licking,Native American origin
+39,Ohio,Logan,other origin
+39,Ohio,Lorain,other origin
+39,Ohio,Lucas,other origin
+39,Ohio,Madison,other origin
+39,Ohio,Mahoning,Native American origin
+39,Ohio,Marion,other origin
+39,Ohio,Medina,other origin
+39,Ohio,Meigs,other origin
+39,Ohio,Mercer,other origin
+39,Ohio,Miami,Native American origin
+39,Ohio,Monroe,other origin
+39,Ohio,Montgomery,other origin
+39,Ohio,Morgan,other origin
+39,Ohio,Morrow,other origin
+39,Ohio,Muskingum,Native American origin
+39,Ohio,Noble,other origin
+39,Ohio,Ottawa,Native American origin
+39,Ohio,Paulding,other origin
+39,Ohio,Perry,other origin
+39,Ohio,Pickaway,Native American origin
+39,Ohio,Pike,other origin
+39,Ohio,Portage,other origin
+39,Ohio,Preble,other origin
+39,Ohio,Putnam,other origin
+39,Ohio,Richland,other origin
+39,Ohio,Ross,other origin
+39,Ohio,Sandusky,Native American origin
+39,Ohio,Scioto,Native American origin
+39,Ohio,Seneca,Native American origin
+39,Ohio,Shelby,other origin
+39,Ohio,Stark,other origin
+39,Ohio,Summit,other origin
+39,Ohio,Trumbull,other origin
+39,Ohio,Tuscarawas,Native American origin
+39,Ohio,Union,other origin
+39,Ohio,Van Wert,other origin
+39,Ohio,Vinton,other origin
+39,Ohio,Warren,other origin
+39,Ohio,Washington,other origin
+39,Ohio,Wayne,other origin
+39,Ohio,Williams,other origin
+39,Ohio,Wood,other origin
+39,Ohio,Wyandot,Native American origin
+40,Oklahoma,Adair,other origin
+40,Oklahoma,Alfalfa,other origin
+40,Oklahoma,Atoka,Native American origin
+40,Oklahoma,Beaver,other origin
+40,Oklahoma,Beckham,other origin
+40,Oklahoma,Blaine,other origin
+40,Oklahoma,Bryan,other origin
+40,Oklahoma,Caddo,Native American origin
+40,Oklahoma,Canadian,Native American origin
+40,Oklahoma,Carter,other origin
+40,Oklahoma,Cherokee,other origin
+40,Oklahoma,Choctaw,Native American origin
+40,Oklahoma,Cimarron,other origin
+40,Oklahoma,Cleveland,other origin
+40,Oklahoma,Coal,other origin
+40,Oklahoma,Comanche,Native American origin
+40,Oklahoma,Cotton,other origin
+40,Oklahoma,Craig,other origin
+40,Oklahoma,Creek,other origin
+40,Oklahoma,Custer,other origin
+40,Oklahoma,Delaware,other origin
+40,Oklahoma,Dewey,other origin
+40,Oklahoma,Ellis,other origin
+40,Oklahoma,Garfield,other origin
+40,Oklahoma,Garvin,other origin
+40,Oklahoma,Grady,other origin
+40,Oklahoma,Grant,other origin
+40,Oklahoma,Greer,other origin
+40,Oklahoma,Harmon,other origin
+40,Oklahoma,Harper,other origin
+40,Oklahoma,Haskell,other origin
+40,Oklahoma,Hughes,other origin
+40,Oklahoma,Jackson,other origin
+40,Oklahoma,Jefferson,other origin
+40,Oklahoma,Johnston,other origin
+40,Oklahoma,Kay,other origin
+40,Oklahoma,Kingfisher,other origin
+40,Oklahoma,Kiowa,Native American origin
+40,Oklahoma,Latimer,other origin
+40,Oklahoma,Le Flore,other origin
+40,Oklahoma,Lincoln,other origin
+40,Oklahoma,Logan,other origin
+40,Oklahoma,Love,other origin
+40,Oklahoma,Major,other origin
+40,Oklahoma,Marshall,other origin
+40,Oklahoma,Mayes,other origin
+40,Oklahoma,McClain,other origin
+40,Oklahoma,McCurtain,other origin
+40,Oklahoma,McIntosh,other origin
+40,Oklahoma,Murray,other origin
+40,Oklahoma,Muskogee,Native American origin
+40,Oklahoma,Noble,other origin
+40,Oklahoma,Nowata,Native American origin
+40,Oklahoma,Okfuskee,other origin
+40,Oklahoma,Oklahoma,other origin
+40,Oklahoma,Okmulgee,Native American origin
+40,Oklahoma,Osage,Native American origin
+40,Oklahoma,Ottawa,other origin
+40,Oklahoma,Pawnee,Native American origin
+40,Oklahoma,Payne,other origin
+40,Oklahoma,Pittsburg,other origin
+40,Oklahoma,Pontotoc,Native American origin
+40,Oklahoma,Pottawatomie,Native American origin
+40,Oklahoma,Pushmataha,Native American origin
+40,Oklahoma,Roger Mills,other origin
+40,Oklahoma,Rogers,other origin
+40,Oklahoma,Seminole,Native American origin
+40,Oklahoma,Sequoyah,Native American origin
+40,Oklahoma,Stephens,other origin
+40,Oklahoma,Texas,Native American origin
+40,Oklahoma,Tillman,other origin
+40,Oklahoma,Tulsa,Native American origin
+40,Oklahoma,Wagoner,other origin
+40,Oklahoma,Washington,other origin
+40,Oklahoma,Washita,Native American origin
+40,Oklahoma,Woods,other origin
+40,Oklahoma,Woodward,other origin
+41,Oregon,Baker,other origin
+41,Oregon,Benton,other origin
+41,Oregon,Clackamas,Native American origin
+41,Oregon,Clatsop,Native American origin
+41,Oregon,Columbia,other origin
+41,Oregon,Coos,Native American origin
+41,Oregon,Crook,other origin
+41,Oregon,Curry,other origin
+41,Oregon,Deschutes,other origin
+41,Oregon,Douglas,other origin
+41,Oregon,Gilliam,other origin
+41,Oregon,Grant,other origin
+41,Oregon,Harney,other origin
+41,Oregon,Hood River,other origin
+41,Oregon,Jackson,other origin
+41,Oregon,Jefferson,other origin
+41,Oregon,Josephine,other origin
+41,Oregon,Klamath,Native American origin
+41,Oregon,Lake,other origin
+41,Oregon,Lane,other origin
+41,Oregon,Lincoln,other origin
+41,Oregon,Linn,other origin
+41,Oregon,Malheur,other origin
+41,Oregon,Marion,other origin
+41,Oregon,Morrow,other origin
+41,Oregon,Multnomah,Native American origin
+41,Oregon,Polk,other origin
+41,Oregon,Sherman,other origin
+41,Oregon,Tillamook,Native American origin
+41,Oregon,Umatilla,Native American origin
+41,Oregon,Union,other origin
+41,Oregon,Wallowa,Native American origin
+41,Oregon,Wasco,Native American origin
+41,Oregon,Washington,other origin
+41,Oregon,Wheeler,other origin
+41,Oregon,Yamhill,Native American origin
+42,Pennsylvania,Adams,other origin
+42,Pennsylvania,Allegheny,Native American origin
+42,Pennsylvania,Armstrong,other origin
+42,Pennsylvania,Beaver,other origin
+42,Pennsylvania,Bedford,other origin
+42,Pennsylvania,Berks,other origin
+42,Pennsylvania,Blair,other origin
+42,Pennsylvania,Bradford,other origin
+42,Pennsylvania,Bucks,other origin
+42,Pennsylvania,Butler,other origin
+42,Pennsylvania,Cambria,other origin
+42,Pennsylvania,Cameron,other origin
+42,Pennsylvania,Carbon,other origin
+42,Pennsylvania,Centre,other origin
+42,Pennsylvania,Chester,other origin
+42,Pennsylvania,Clarion,other origin
+42,Pennsylvania,Clearfield,other origin
+42,Pennsylvania,Clinton,other origin
+42,Pennsylvania,Columbia,other origin
+42,Pennsylvania,Crawford,other origin
+42,Pennsylvania,Cumberland,other origin
+42,Pennsylvania,Dauphin,other origin
+42,Pennsylvania,Delaware,other origin
+42,Pennsylvania,Elk,other origin
+42,Pennsylvania,Erie,other origin
+42,Pennsylvania,Fayette,other origin
+42,Pennsylvania,Forest,other origin
+42,Pennsylvania,Franklin,other origin
+42,Pennsylvania,Fulton,other origin
+42,Pennsylvania,Greene,other origin
+42,Pennsylvania,Huntingdon,other origin
+42,Pennsylvania,Indiana,other origin
+42,Pennsylvania,Jefferson,other origin
+42,Pennsylvania,Juniata,Native American origin
+42,Pennsylvania,Lackawanna,Native American origin
+42,Pennsylvania,Lancaster,other origin
+42,Pennsylvania,Lawrence,other origin
+42,Pennsylvania,Lebanon,other origin
+42,Pennsylvania,Lehigh,Native American origin
+42,Pennsylvania,Luzerne,other origin
+42,Pennsylvania,Lycoming,Native American origin
+42,Pennsylvania,McKean,other origin
+42,Pennsylvania,Mercer,other origin
+42,Pennsylvania,Mifflin,other origin
+42,Pennsylvania,Monroe,other origin
+42,Pennsylvania,Montgomery,other origin
+42,Pennsylvania,Montour,other origin
+42,Pennsylvania,Northampton,other origin
+42,Pennsylvania,Northumberland,other origin
+42,Pennsylvania,Perry,other origin
+42,Pennsylvania,Philadelphia,other origin
+42,Pennsylvania,Pike,other origin
+42,Pennsylvania,Potter,other origin
+42,Pennsylvania,Schuylkill,Native American origin
+42,Pennsylvania,Snyder,other origin
+42,Pennsylvania,Somerset,other origin
+42,Pennsylvania,Sullivan,other origin
+42,Pennsylvania,Susquehanna,Native American origin
+42,Pennsylvania,Tioga,Native American origin
+42,Pennsylvania,Union,other origin
+42,Pennsylvania,Venango,Native American origin
+42,Pennsylvania,Warren,other origin
+42,Pennsylvania,Washington,other origin
+42,Pennsylvania,Wayne,other origin
+42,Pennsylvania,Westmoreland,other origin
+42,Pennsylvania,Wyoming,Native American origin
+42,Pennsylvania,York,other origin
+44,Rhode Island,Bristol,other origin
+44,Rhode Island,Kent,other origin
+44,Rhode Island,Newport,other origin
+44,Rhode Island,Providence,other origin
+44,Rhode Island,Washington,other origin
+45,South Carolina,Abbeville,other origin
+45,South Carolina,Aiken,other origin
+45,South Carolina,Allendale,other origin
+45,South Carolina,Anderson,other origin
+45,South Carolina,Bamberg,other origin
+45,South Carolina,Barnwell,other origin
+45,South Carolina,Beaufort,other origin
+45,South Carolina,Berkeley,other origin
+45,South Carolina,Calhoun,other origin
+45,South Carolina,Charleston,other origin
+45,South Carolina,Cherokee,Native American origin
+45,South Carolina,Chester,other origin
+45,South Carolina,Chesterfield,other origin
+45,South Carolina,Clarendon,other origin
+45,South Carolina,Colleton,other origin
+45,South Carolina,Darlington,other origin
+45,South Carolina,Dillon,other origin
+45,South Carolina,Dorchester,other origin
+45,South Carolina,Edgefield,other origin
+45,South Carolina,Fairfield,other origin
+45,South Carolina,Florence,other origin
+45,South Carolina,Georgetown,other origin
+45,South Carolina,Greenville,other origin
+45,South Carolina,Greenwood,other origin
+45,South Carolina,Hampton,other origin
+45,South Carolina,Horry,other origin
+45,South Carolina,Jasper,other origin
+45,South Carolina,Kershaw,other origin
+45,South Carolina,Lancaster,other origin
+45,South Carolina,Laurens,other origin
+45,South Carolina,Lee,other origin
+45,South Carolina,Lexington,other origin
+45,South Carolina,Marion,other origin
+45,South Carolina,Marlboro,other origin
+45,South Carolina,McCormick,other origin
+45,South Carolina,Newberry,other origin
+45,South Carolina,Oconee,Native American origin
+45,South Carolina,Orangeburg,other origin
+45,South Carolina,Pickens,other origin
+45,South Carolina,Richland,other origin
+45,South Carolina,Saluda,Native American origin
+45,South Carolina,Spartanburg,other origin
+45,South Carolina,Sumter,other origin
+45,South Carolina,Union,other origin
+45,South Carolina,Williamsburg,other origin
+45,South Carolina,York,other origin
+46,South Dakota,Aurora,other origin
+46,South Dakota,Beadle,other origin
+46,South Dakota,Bennett,other origin
+46,South Dakota,Bon Homme,other origin
+46,South Dakota,Brookings,other origin
+46,South Dakota,Brown,other origin
+46,South Dakota,Brule,other origin
+46,South Dakota,Buffalo,other origin
+46,South Dakota,Butte,other origin
+46,South Dakota,Campbell,other origin
+46,South Dakota,Charles Mix,other origin
+46,South Dakota,Clark,other origin
+46,South Dakota,Clay,other origin
+46,South Dakota,Codington,other origin
+46,South Dakota,Corson,other origin
+46,South Dakota,Custer,other origin
+46,South Dakota,Davison,other origin
+46,South Dakota,Day,other origin
+46,South Dakota,Deuel,other origin
+46,South Dakota,Dewey,other origin
+46,South Dakota,Douglas,other origin
+46,South Dakota,Edmunds,other origin
+46,South Dakota,Fall River,other origin
+46,South Dakota,Faulk,other origin
+46,South Dakota,Grant,other origin
+46,South Dakota,Gregory,other origin
+46,South Dakota,Haakon,other origin
+46,South Dakota,Hamlin,other origin
+46,South Dakota,Hand,other origin
+46,South Dakota,Hanson,other origin
+46,South Dakota,Harding,other origin
+46,South Dakota,Hughes,other origin
+46,South Dakota,Hutchinson,other origin
+46,South Dakota,Hyde,other origin
+46,South Dakota,Jackson,other origin
+46,South Dakota,Jerauld,other origin
+46,South Dakota,Jones,other origin
+46,South Dakota,Kingsbury,other origin
+46,South Dakota,Lake,other origin
+46,South Dakota,Lawrence,other origin
+46,South Dakota,Lincoln,other origin
+46,South Dakota,Lyman,other origin
+46,South Dakota,Marshall,other origin
+46,South Dakota,McCook,other origin
+46,South Dakota,McPherson,other origin
+46,South Dakota,Meade,other origin
+46,South Dakota,Mellette,other origin
+46,South Dakota,Miner,other origin
+46,South Dakota,Minnehaha,Native American origin
+46,South Dakota,Moody,other origin
+46,South Dakota,Oglala Lakota,Native American origin
+46,South Dakota,Pennington,other origin
+46,South Dakota,Perkins,other origin
+46,South Dakota,Potter,other origin
+46,South Dakota,Roberts,other origin
+46,South Dakota,Sanborn,other origin
+46,South Dakota,Spink,other origin
+46,South Dakota,Stanley,other origin
+46,South Dakota,Sully,other origin
+46,South Dakota,Todd,other origin
+46,South Dakota,Tripp,other origin
+46,South Dakota,Turner,other origin
+46,South Dakota,Union,other origin
+46,South Dakota,Walworth,other origin
+46,South Dakota,Yankton,Native American origin
+46,South Dakota,Ziebach,other origin
+47,Tennessee,Anderson,other origin
+47,Tennessee,Bedford,other origin
+47,Tennessee,Benton,other origin
+47,Tennessee,Bledsoe,other origin
+47,Tennessee,Blount,other origin
+47,Tennessee,Bradley,other origin
+47,Tennessee,Campbell,other origin
+47,Tennessee,Cannon,other origin
+47,Tennessee,Carroll,other origin
+47,Tennessee,Carter,other origin
+47,Tennessee,Cheatham,other origin
+47,Tennessee,Chester,other origin
+47,Tennessee,Claiborne,other origin
+47,Tennessee,Clay,other origin
+47,Tennessee,Cocke,other origin
+47,Tennessee,Coffee,other origin
+47,Tennessee,Crockett,other origin
+47,Tennessee,Cumberland,other origin
+47,Tennessee,Davidson,other origin
+47,Tennessee,Decatur,other origin
+47,Tennessee,DeKalb,other origin
+47,Tennessee,Dickson,other origin
+47,Tennessee,Dyer,other origin
+47,Tennessee,Fayette,other origin
+47,Tennessee,Fentress,other origin
+47,Tennessee,Franklin,other origin
+47,Tennessee,Gibson,other origin
+47,Tennessee,Giles,other origin
+47,Tennessee,Grainger,other origin
+47,Tennessee,Greene,other origin
+47,Tennessee,Grundy,other origin
+47,Tennessee,Hamblen,other origin
+47,Tennessee,Hamilton,other origin
+47,Tennessee,Hancock,other origin
+47,Tennessee,Hardeman,other origin
+47,Tennessee,Hardin,other origin
+47,Tennessee,Hawkins,other origin
+47,Tennessee,Haywood,other origin
+47,Tennessee,Henderson,other origin
+47,Tennessee,Henry,other origin
+47,Tennessee,Hickman,other origin
+47,Tennessee,Houston,other origin
+47,Tennessee,Humphreys,other origin
+47,Tennessee,Jackson,other origin
+47,Tennessee,Jefferson,other origin
+47,Tennessee,Johnson,other origin
+47,Tennessee,Knox,other origin
+47,Tennessee,Lake,other origin
+47,Tennessee,Lauderdale,other origin
+47,Tennessee,Lawrence,other origin
+47,Tennessee,Lewis,other origin
+47,Tennessee,Lincoln,other origin
+47,Tennessee,Loudon,other origin
+47,Tennessee,Macon,other origin
+47,Tennessee,Madison,other origin
+47,Tennessee,Marion,other origin
+47,Tennessee,Marshall,other origin
+47,Tennessee,Maury,other origin
+47,Tennessee,McMinn,other origin
+47,Tennessee,McNairy,other origin
+47,Tennessee,Meigs,other origin
+47,Tennessee,Monroe,other origin
+47,Tennessee,Montgomery,other origin
+47,Tennessee,Moore,other origin
+47,Tennessee,Morgan,other origin
+47,Tennessee,Obion,other origin
+47,Tennessee,Overton,other origin
+47,Tennessee,Perry,other origin
+47,Tennessee,Pickett,other origin
+47,Tennessee,Polk,other origin
+47,Tennessee,Putnam,other origin
+47,Tennessee,Rhea,other origin
+47,Tennessee,Roane,other origin
+47,Tennessee,Robertson,other origin
+47,Tennessee,Rutherford,other origin
+47,Tennessee,Scott,other origin
+47,Tennessee,Sequatchie,Native American origin
+47,Tennessee,Sevier,other origin
+47,Tennessee,Shelby,other origin
+47,Tennessee,Smith,other origin
+47,Tennessee,Stewart,other origin
+47,Tennessee,Sullivan,other origin
+47,Tennessee,Sumner,other origin
+47,Tennessee,Tipton,other origin
+47,Tennessee,Trousdale,other origin
+47,Tennessee,Unicoi,Native American origin
+47,Tennessee,Union,other origin
+47,Tennessee,Van Buren,other origin
+47,Tennessee,Warren,other origin
+47,Tennessee,Washington,other origin
+47,Tennessee,Wayne,other origin
+47,Tennessee,Weakley,other origin
+47,Tennessee,White,other origin
+47,Tennessee,Williamson,other origin
+47,Tennessee,Wilson,other origin
+48,Texas,Anderson,other origin
+48,Texas,Andrews,other origin
+48,Texas,Angelina,other origin
+48,Texas,Aransas,other origin
+48,Texas,Archer,other origin
+48,Texas,Armstrong,other origin
+48,Texas,Atascosa,other origin
+48,Texas,Austin,other origin
+48,Texas,Bailey,other origin
+48,Texas,Bandera,other origin
+48,Texas,Bastrop,other origin
+48,Texas,Baylor,other origin
+48,Texas,Bee,other origin
+48,Texas,Bell,other origin
+48,Texas,Bexar,other origin
+48,Texas,Blanco,other origin
+48,Texas,Borden,other origin
+48,Texas,Bosque,other origin
+48,Texas,Bowie,other origin
+48,Texas,Brazoria,other origin
+48,Texas,Brazos,other origin
+48,Texas,Brewster,other origin
+48,Texas,Briscoe,other origin
+48,Texas,Brooks,other origin
+48,Texas,Brown,other origin
+48,Texas,Burleson,other origin
+48,Texas,Burnet,other origin
+48,Texas,Caldwell,other origin
+48,Texas,Calhoun,other origin
+48,Texas,Callahan,other origin
+48,Texas,Cameron,other origin
+48,Texas,Camp,other origin
+48,Texas,Carson,other origin
+48,Texas,Cass,other origin
+48,Texas,Castro,other origin
+48,Texas,Chambers,other origin
+48,Texas,Cherokee,other origin
+48,Texas,Childress,other origin
+48,Texas,Clay,other origin
+48,Texas,Cochran,other origin
+48,Texas,Coke,other origin
+48,Texas,Coleman,other origin
+48,Texas,Collin,other origin
+48,Texas,Collingsworth,other origin
+48,Texas,Colorado,other origin
+48,Texas,Comal,other origin
+48,Texas,Comanche,other origin
+48,Texas,Concho,other origin
+48,Texas,Cooke,other origin
+48,Texas,Coryell,other origin
+48,Texas,Cottle,other origin
+48,Texas,Crane,other origin
+48,Texas,Crockett,other origin
+48,Texas,Crosby,other origin
+48,Texas,Culberson,other origin
+48,Texas,Dallam,other origin
+48,Texas,Dallas,other origin
+48,Texas,Dawson,other origin
+48,Texas,Deaf Smith,other origin
+48,Texas,Delta,other origin
+48,Texas,Denton,other origin
+48,Texas,DeWitt,other origin
+48,Texas,Dickens,other origin
+48,Texas,Dimmit,other origin
+48,Texas,Donley,other origin
+48,Texas,Duval,other origin
+48,Texas,Eastland,other origin
+48,Texas,Ector,other origin
+48,Texas,Edwards,other origin
+48,Texas,El Paso,other origin
+48,Texas,Ellis,other origin
+48,Texas,Erath,other origin
+48,Texas,Falls,other origin
+48,Texas,Fannin,other origin
+48,Texas,Fayette,other origin
+48,Texas,Fisher,other origin
+48,Texas,Floyd,other origin
+48,Texas,Foard,other origin
+48,Texas,Fort Bend,other origin
+48,Texas,Franklin,other origin
+48,Texas,Freestone,other origin
+48,Texas,Frio,other origin
+48,Texas,Gaines,other origin
+48,Texas,Galveston,other origin
+48,Texas,Garza,other origin
+48,Texas,Gillespie,other origin
+48,Texas,Glasscock,other origin
+48,Texas,Goliad,other origin
+48,Texas,Gonzales,other origin
+48,Texas,Gray,other origin
+48,Texas,Grayson,other origin
+48,Texas,Gregg,other origin
+48,Texas,Grimes,other origin
+48,Texas,Guadalupe,other origin
+48,Texas,Hale,other origin
+48,Texas,Hall,other origin
+48,Texas,Hamilton,other origin
+48,Texas,Hansford,other origin
+48,Texas,Hardeman,other origin
+48,Texas,Hardin,other origin
+48,Texas,Harris,other origin
+48,Texas,Harrison,other origin
+48,Texas,Hartley,other origin
+48,Texas,Haskell,other origin
+48,Texas,Hays,other origin
+48,Texas,Hemphill,other origin
+48,Texas,Henderson,other origin
+48,Texas,Hidalgo,other origin
+48,Texas,Hill,other origin
+48,Texas,Hockley,other origin
+48,Texas,Hood,other origin
+48,Texas,Hopkins,other origin
+48,Texas,Houston,other origin
+48,Texas,Howard,other origin
+48,Texas,Hudspeth,other origin
+48,Texas,Hunt,other origin
+48,Texas,Hutchinson,other origin
+48,Texas,Irion,other origin
+48,Texas,Jack,other origin
+48,Texas,Jackson,other origin
+48,Texas,Jasper,other origin
+48,Texas,Jeff Davis,other origin
+48,Texas,Jefferson,other origin
+48,Texas,Jim Hogg,other origin
+48,Texas,Jim Wells,other origin
+48,Texas,Johnson,other origin
+48,Texas,Jones,other origin
+48,Texas,Karnes,other origin
+48,Texas,Kaufman,other origin
+48,Texas,Kendall,other origin
+48,Texas,Kenedy,other origin
+48,Texas,Kent,other origin
+48,Texas,Kerr,other origin
+48,Texas,Kimble,other origin
+48,Texas,King,other origin
+48,Texas,Kinney,other origin
+48,Texas,Kleberg,other origin
+48,Texas,Knox,other origin
+48,Texas,La Salle,other origin
+48,Texas,Lamar,other origin
+48,Texas,Lamb,other origin
+48,Texas,Lampasas,other origin
+48,Texas,Lavaca,other origin
+48,Texas,Lee,other origin
+48,Texas,Leon,other origin
+48,Texas,Liberty,other origin
+48,Texas,Limestone,other origin
+48,Texas,Lipscomb,other origin
+48,Texas,Live Oak,other origin
+48,Texas,Llano,other origin
+48,Texas,Loving,other origin
+48,Texas,Lubbock,other origin
+48,Texas,Lynn,other origin
+48,Texas,Madison,other origin
+48,Texas,Marion,other origin
+48,Texas,Martin,other origin
+48,Texas,Mason,other origin
+48,Texas,Matagorda,other origin
+48,Texas,Maverick,other origin
+48,Texas,McCulloch,other origin
+48,Texas,McLennan,other origin
+48,Texas,McMullen,other origin
+48,Texas,Medina,other origin
+48,Texas,Menard,other origin
+48,Texas,Midland,other origin
+48,Texas,Milam,other origin
+48,Texas,Mills,other origin
+48,Texas,Mitchell,other origin
+48,Texas,Montague,other origin
+48,Texas,Montgomery,other origin
+48,Texas,Moore,other origin
+48,Texas,Morris,other origin
+48,Texas,Motley,other origin
+48,Texas,Nacogdoches,Native American origin
+48,Texas,Navarro,other origin
+48,Texas,Newton,other origin
+48,Texas,Nolan,other origin
+48,Texas,Nueces,other origin
+48,Texas,Ochiltree,other origin
+48,Texas,Oldham,other origin
+48,Texas,Orange,other origin
+48,Texas,Palo Pinto,other origin
+48,Texas,Panola,other origin
+48,Texas,Parker,other origin
+48,Texas,Parmer,other origin
+48,Texas,Pecos,other origin
+48,Texas,Polk,other origin
+48,Texas,Potter,other origin
+48,Texas,Presidio,other origin
+48,Texas,Rains,other origin
+48,Texas,Randall,other origin
+48,Texas,Reagan,other origin
+48,Texas,Real,other origin
+48,Texas,Red River,other origin
+48,Texas,Reeves,other origin
+48,Texas,Refugio,other origin
+48,Texas,Roberts,other origin
+48,Texas,Robertson,other origin
+48,Texas,Rockwall,other origin
+48,Texas,Runnels,other origin
+48,Texas,Rusk,other origin
+48,Texas,Sabine,other origin
+48,Texas,San Augustine,other origin
+48,Texas,San Jacinto,other origin
+48,Texas,San Patricio,other origin
+48,Texas,San Saba,other origin
+48,Texas,Schleicher,other origin
+48,Texas,Scurry,other origin
+48,Texas,Shackelford,other origin
+48,Texas,Shelby,other origin
+48,Texas,Sherman,other origin
+48,Texas,Smith,other origin
+48,Texas,Somervell,other origin
+48,Texas,Starr,other origin
+48,Texas,Stephens,other origin
+48,Texas,Sterling,other origin
+48,Texas,Stonewall,other origin
+48,Texas,Sutton,other origin
+48,Texas,Swisher,other origin
+48,Texas,Tarrant,other origin
+48,Texas,Taylor,other origin
+48,Texas,Terrell,other origin
+48,Texas,Terry,other origin
+48,Texas,Throckmorton,other origin
+48,Texas,Titus,other origin
+48,Texas,Tom Green,other origin
+48,Texas,Travis,other origin
+48,Texas,Trinity,other origin
+48,Texas,Tyler,other origin
+48,Texas,Upshur,other origin
+48,Texas,Upton,other origin
+48,Texas,Uvalde,other origin
+48,Texas,Val Verde,other origin
+48,Texas,Van Zandt,other origin
+48,Texas,Victoria,other origin
+48,Texas,Walker,other origin
+48,Texas,Waller,other origin
+48,Texas,Ward,other origin
+48,Texas,Washington,other origin
+48,Texas,Webb,other origin
+48,Texas,Wharton,other origin
+48,Texas,Wheeler,other origin
+48,Texas,Wichita,other origin
+48,Texas,Wilbarger,other origin
+48,Texas,Willacy,other origin
+48,Texas,Williamson,other origin
+48,Texas,Wilson,other origin
+48,Texas,Winkler,other origin
+48,Texas,Wise,other origin
+48,Texas,Wood,other origin
+48,Texas,Yoakum,other origin
+48,Texas,Young,other origin
+48,Texas,Zapata,other origin
+48,Texas,Zavala,other origin
+49,Utah,Beaver,other origin
+49,Utah,Box Elder,other origin
+49,Utah,Cache,other origin
+49,Utah,Carbon,other origin
+49,Utah,Daggett,other origin
+49,Utah,Davis,other origin
+49,Utah,Duchesne,other origin
+49,Utah,Emery,other origin
+49,Utah,Garfield,other origin
+49,Utah,Grand,other origin
+49,Utah,Iron,other origin
+49,Utah,Juab,Native American origin
+49,Utah,Kane,other origin
+49,Utah,Millard,other origin
+49,Utah,Morgan,other origin
+49,Utah,Piute,other origin
+49,Utah,Rich,other origin
+49,Utah,Salt Lake,other origin
+49,Utah,San Juan,other origin
+49,Utah,Sanpete,other origin
+49,Utah,Sevier,other origin
+49,Utah,Summit,other origin
+49,Utah,Tooele,other origin
+49,Utah,Uintah,Native American origin
+49,Utah,Utah,Native American origin
+49,Utah,Wasatch,Native American origin
+49,Utah,Washington,other origin
+49,Utah,Wayne,other origin
+49,Utah,Weber,other origin
+50,Vermont,Addison,other origin
+50,Vermont,Bennington,other origin
+50,Vermont,Caledonia,other origin
+50,Vermont,Chittenden,other origin
+50,Vermont,Essex,other origin
+50,Vermont,Franklin,other origin
+50,Vermont,Grand Isle,other origin
+50,Vermont,Lamoille,other origin
+50,Vermont,Orange,other origin
+50,Vermont,Orleans,other origin
+50,Vermont,Rutland,other origin
+50,Vermont,Washington,other origin
+50,Vermont,Windham,other origin
+50,Vermont,Windsor,other origin
+51,Virginia,Accomack,Native American origin
+51,Virginia,Albemarle,other origin
+51,Virginia,Alexandria,other origin
+51,Virginia,Alleghany,Native American origin
+51,Virginia,Amelia,other origin
+51,Virginia,Amherst,other origin
+51,Virginia,Appomattox,Native American origin
+51,Virginia,Arlington,other origin
+51,Virginia,Augusta,other origin
+51,Virginia,Bath,other origin
+51,Virginia,Bedford,other origin
+51,Virginia,Bland,other origin
+51,Virginia,Botetourt,other origin
+51,Virginia,Bristol,other origin
+51,Virginia,Brunswick,other origin
+51,Virginia,Buchanan,other origin
+51,Virginia,Buckingham,other origin
+51,Virginia,Buena Vista,other origin
+51,Virginia,Campbell,other origin
+51,Virginia,Caroline,other origin
+51,Virginia,Carroll,other origin
+51,Virginia,Charles City,other origin
+51,Virginia,Charlotte,other origin
+51,Virginia,Charlottesville,other origin
+51,Virginia,Chesapeake,other origin
+51,Virginia,Chesterfield,other origin
+51,Virginia,Clarke,other origin
+51,Virginia,Colonial Heights,other origin
+51,Virginia,Covington,other origin
+51,Virginia,Craig,other origin
+51,Virginia,Culpeper,other origin
+51,Virginia,Cumberland,other origin
+51,Virginia,Danville,other origin
+51,Virginia,Dickenson,other origin
+51,Virginia,Dinwiddie,other origin
+51,Virginia,Emporia,other origin
+51,Virginia,Essex,other origin
+51,Virginia,Fairfax,other origin
+51,Virginia,Fairfax,other origin
+51,Virginia,Falls Church,other origin
+51,Virginia,Fauquier,other origin
+51,Virginia,Floyd,other origin
+51,Virginia,Fluvanna,other origin
+51,Virginia,Franklin,other origin
+51,Virginia,Franklin,other origin
+51,Virginia,Frederick,other origin
+51,Virginia,Fredericksburg,other origin
+51,Virginia,Galax,other origin
+51,Virginia,Giles,other origin
+51,Virginia,Gloucester,other origin
+51,Virginia,Goochland,other origin
+51,Virginia,Grayson,other origin
+51,Virginia,Greene,other origin
+51,Virginia,Greensville,other origin
+51,Virginia,Halifax,other origin
+51,Virginia,Hampton,other origin
+51,Virginia,Hanover,other origin
+51,Virginia,Harrisonburg,other origin
+51,Virginia,Henrico,other origin
+51,Virginia,Henry,other origin
+51,Virginia,Highland,other origin
+51,Virginia,Hopewell,other origin
+51,Virginia,Isle of Wight,other origin
+51,Virginia,James City,other origin
+51,Virginia,King and Queen,other origin
+51,Virginia,King George,other origin
+51,Virginia,King William,other origin
+51,Virginia,Lancaster,other origin
+51,Virginia,Lee,other origin
+51,Virginia,Lexington,other origin
+51,Virginia,Loudoun,other origin
+51,Virginia,Louisa,other origin
+51,Virginia,Lunenburg,other origin
+51,Virginia,Lynchburg,other origin
+51,Virginia,Madison,other origin
+51,Virginia,Manassas,other origin
+51,Virginia,Manassas Park,other origin
+51,Virginia,Martinsville,other origin
+51,Virginia,Mathews,other origin
+51,Virginia,Mecklenburg,other origin
+51,Virginia,Middlesex,other origin
+51,Virginia,Montgomery,other origin
+51,Virginia,Nelson,other origin
+51,Virginia,New Kent,other origin
+51,Virginia,Newport News,other origin
+51,Virginia,Norfolk,other origin
+51,Virginia,Northampton,other origin
+51,Virginia,Northumberland,other origin
+51,Virginia,Norton,other origin
+51,Virginia,Nottoway,Native American origin
+51,Virginia,Orange,other origin
+51,Virginia,Page,other origin
+51,Virginia,Patrick,other origin
+51,Virginia,Petersburg,other origin
+51,Virginia,Pittsylvania,other origin
+51,Virginia,Poquoson,other origin
+51,Virginia,Portsmouth,other origin
+51,Virginia,Powhatan,Native American origin
+51,Virginia,Prince Edward,other origin
+51,Virginia,Prince George,other origin
+51,Virginia,Prince William,other origin
+51,Virginia,Pulaski,other origin
+51,Virginia,Radford,other origin
+51,Virginia,Rappahannock,Native American origin
+51,Virginia,Richmond,other origin
+51,Virginia,Richmond,other origin
+51,Virginia,Roanoke,Native American origin
+51,Virginia,Rockbridge,other origin
+51,Virginia,Rockingham,other origin
+51,Virginia,Russell,other origin
+51,Virginia,Salem,other origin
+51,Virginia,Scott,other origin
+51,Virginia,Shenandoah,Native American origin
+51,Virginia,Smyth,other origin
+51,Virginia,Southampton,other origin
+51,Virginia,Spotsylvania,other origin
+51,Virginia,Stafford,other origin
+51,Virginia,Staunton,other origin
+51,Virginia,Suffolk,other origin
+51,Virginia,Surry,other origin
+51,Virginia,Sussex,other origin
+51,Virginia,Tazewell,other origin
+51,Virginia,Virginia Beach,other origin
+51,Virginia,Warren,other origin
+51,Virginia,Washington,other origin
+51,Virginia,Waynesboro,other origin
+51,Virginia,Westmoreland,other origin
+51,Virginia,Williamsburg,other origin
+51,Virginia,Winchester,other origin
+51,Virginia,Wise,other origin
+51,Virginia,Wythe,other origin
+51,Virginia,York,other origin
+53,Washington,Adams,other origin
+53,Washington,Asotin,other origin
+53,Washington,Benton,other origin
+53,Washington,Chelan,Native American origin
+53,Washington,Clallam,other origin
+53,Washington,Clark,other origin
+53,Washington,Columbia,other origin
+53,Washington,Cowlitz,Native American origin
+53,Washington,Douglas,other origin
+53,Washington,Ferry,other origin
+53,Washington,Franklin,other origin
+53,Washington,Garfield,other origin
+53,Washington,Grant,other origin
+53,Washington,Grays Harbor,other origin
+53,Washington,Island,other origin
+53,Washington,Jefferson,other origin
+53,Washington,King,other origin
+53,Washington,Kitsap,Native American origin
+53,Washington,Kittitas,Native American origin
+53,Washington,Klickitat,other origin
+53,Washington,Lewis,other origin
+53,Washington,Lincoln,other origin
+53,Washington,Mason,other origin
+53,Washington,Okanogan,Native American origin
+53,Washington,Pacific,other origin
+53,Washington,Pend Oreille,other origin
+53,Washington,Pierce,other origin
+53,Washington,San Juan,other origin
+53,Washington,Skagit,Native American origin
+53,Washington,Skamania,other origin
+53,Washington,Snohomish,Native American origin
+53,Washington,Spokane,Native American origin
+53,Washington,Stevens,other origin
+53,Washington,Thurston,other origin
+53,Washington,Wahkiakum,other origin
+53,Washington,Walla Walla,other origin
+53,Washington,Whatcom,other origin
+53,Washington,Whitman,other origin
+53,Washington,Yakima,Native American origin
+54,West Virginia,Barbour,other origin
+54,West Virginia,Berkeley,other origin
+54,West Virginia,Boone,other origin
+54,West Virginia,Braxton,other origin
+54,West Virginia,Brooke,other origin
+54,West Virginia,Cabell,other origin
+54,West Virginia,Calhoun,other origin
+54,West Virginia,Clay,other origin
+54,West Virginia,Doddridge,other origin
+54,West Virginia,Fayette,other origin
+54,West Virginia,Gilmer,other origin
+54,West Virginia,Grant,other origin
+54,West Virginia,Greenbrier,other origin
+54,West Virginia,Hampshire,other origin
+54,West Virginia,Hancock,other origin
+54,West Virginia,Hardy,other origin
+54,West Virginia,Harrison,other origin
+54,West Virginia,Jackson,other origin
+54,West Virginia,Jefferson,other origin
+54,West Virginia,Kanawha,Native American origin
+54,West Virginia,Lewis,other origin
+54,West Virginia,Lincoln,other origin
+54,West Virginia,Logan,other origin
+54,West Virginia,Marion,other origin
+54,West Virginia,Marshall,other origin
+54,West Virginia,Mason,other origin
+54,West Virginia,McDowell,other origin
+54,West Virginia,Mercer,other origin
+54,West Virginia,Mineral,other origin
+54,West Virginia,Mingo,Native American origin
+54,West Virginia,Monongalia,Native American origin
+54,West Virginia,Monroe,other origin
+54,West Virginia,Morgan,other origin
+54,West Virginia,Nicholas,other origin
+54,West Virginia,Ohio,Native American origin
+54,West Virginia,Pendleton,other origin
+54,West Virginia,Pleasants,other origin
+54,West Virginia,Pocahontas,Native American origin
+54,West Virginia,Preston,other origin
+54,West Virginia,Putnam,other origin
+54,West Virginia,Raleigh,other origin
+54,West Virginia,Randolph,other origin
+54,West Virginia,Ritchie,other origin
+54,West Virginia,Roane,other origin
+54,West Virginia,Summers,other origin
+54,West Virginia,Taylor,other origin
+54,West Virginia,Tucker,other origin
+54,West Virginia,Tyler,other origin
+54,West Virginia,Upshur,other origin
+54,West Virginia,Wayne,other origin
+54,West Virginia,Webster,other origin
+54,West Virginia,Wetzel,other origin
+54,West Virginia,Wirt,other origin
+54,West Virginia,Wood,other origin
+54,West Virginia,Wyoming,Native American origin
+55,Wisconsin,Adams,other origin
+55,Wisconsin,Ashland,other origin
+55,Wisconsin,Barron,other origin
+55,Wisconsin,Bayfield,other origin
+55,Wisconsin,Brown,other origin
+55,Wisconsin,Buffalo,other origin
+55,Wisconsin,Burnett,other origin
+55,Wisconsin,Calumet,other origin
+55,Wisconsin,Chippewa,Native American origin
+55,Wisconsin,Clark,other origin
+55,Wisconsin,Columbia,other origin
+55,Wisconsin,Crawford,other origin
+55,Wisconsin,Dane,other origin
+55,Wisconsin,Dodge,other origin
+55,Wisconsin,Door,other origin
+55,Wisconsin,Douglas,other origin
+55,Wisconsin,Dunn,other origin
+55,Wisconsin,Eau Claire,other origin
+55,Wisconsin,Florence,other origin
+55,Wisconsin,Fond du Lac,other origin
+55,Wisconsin,Forest,other origin
+55,Wisconsin,Grant,other origin
+55,Wisconsin,Green,other origin
+55,Wisconsin,Green Lake,other origin
+55,Wisconsin,Iowa,Native American origin
+55,Wisconsin,Iron,other origin
+55,Wisconsin,Jackson,other origin
+55,Wisconsin,Jefferson,other origin
+55,Wisconsin,Juneau,other origin
+55,Wisconsin,Kenosha,Native American origin
+55,Wisconsin,Kewaunee,Native American origin
+55,Wisconsin,La Crosse,other origin
+55,Wisconsin,Lafayette,other origin
+55,Wisconsin,Langlade,other origin
+55,Wisconsin,Lincoln,other origin
+55,Wisconsin,Manitowoc,Native American origin
+55,Wisconsin,Marathon,other origin
+55,Wisconsin,Marinette,other origin
+55,Wisconsin,Marquette,other origin
+55,Wisconsin,Menominee,Native American origin
+55,Wisconsin,Milwaukee,Native American origin
+55,Wisconsin,Monroe,other origin
+55,Wisconsin,Oconto,other origin
+55,Wisconsin,Oneida,Native American origin
+55,Wisconsin,Outagamie,Native American origin
+55,Wisconsin,Ozaukee,Native American origin
+55,Wisconsin,Pepin,other origin
+55,Wisconsin,Pierce,other origin
+55,Wisconsin,Polk,other origin
+55,Wisconsin,Portage,other origin
+55,Wisconsin,Price,other origin
+55,Wisconsin,Racine,other origin
+55,Wisconsin,Richland,other origin
+55,Wisconsin,Rock,other origin
+55,Wisconsin,Rusk,other origin
+55,Wisconsin,Sauk,Native American origin
+55,Wisconsin,Sawyer,other origin
+55,Wisconsin,Shawano,other origin
+55,Wisconsin,Sheboygan,other origin
+55,Wisconsin,St. Croix,other origin
+55,Wisconsin,Taylor,other origin
+55,Wisconsin,Trempealeau,other origin
+55,Wisconsin,Vernon,other origin
+55,Wisconsin,Vilas,other origin
+55,Wisconsin,Walworth,other origin
+55,Wisconsin,Washburn,other origin
+55,Wisconsin,Washington,other origin
+55,Wisconsin,Waukesha,Native American origin
+55,Wisconsin,Waupaca,Native American origin
+55,Wisconsin,Waushara,Native American origin
+55,Wisconsin,Winnebago,Native American origin
+55,Wisconsin,Wood,other origin
+56,Wyoming,Albany,other origin
+56,Wyoming,Big Horn,other origin
+56,Wyoming,Campbell,other origin
+56,Wyoming,Carbon,other origin
+56,Wyoming,Converse,other origin
+56,Wyoming,Crook,other origin
+56,Wyoming,Fremont,other origin
+56,Wyoming,Goshen,other origin
+56,Wyoming,Hot Springs,other origin
+56,Wyoming,Johnson,other origin
+56,Wyoming,Laramie,other origin
+56,Wyoming,Lincoln,other origin
+56,Wyoming,Natrona,other origin
+56,Wyoming,Niobrara,other origin
+56,Wyoming,Park,other origin
+56,Wyoming,Platte,other origin
+56,Wyoming,Sheridan,other origin
+56,Wyoming,Sublette,other origin
+56,Wyoming,Sweetwater,other origin
+56,Wyoming,Teton,other origin
+56,Wyoming,Uinta,other origin
+56,Wyoming,Washakie,other origin
+56,Wyoming,Weston,other origin
